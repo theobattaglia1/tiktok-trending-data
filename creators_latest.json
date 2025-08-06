@@ -1,0 +1,85 @@
+{
+  "creators": [
+    {
+      "id": "creator_001",
+      "username": "risingartist2025",
+      "display_name": "Rising Artist",
+      "follower_count": 125000,
+      "following_count": 450,
+      "video_count": 89,
+      "total_likes": 2500000,
+      "growth_rate": 185.5,
+      "category": "music",
+      "location": "Los Angeles, CA",
+      "verified": false,
+      "recent_viral_videos": 3,
+      "avg_views_per_video": 85000,
+      "engagement_rate": 8.5,
+      "a_r_score": 92.3,
+      "notable_sounds": [
+        "original_song_001",
+        "cover_002"
+      ],
+      "collaboration_potential": "high"
+    },
+    {
+      "id": "creator_002",
+      "username": "indiemusician",
+      "display_name": "Indie Musician",
+      "follower_count": 67000,
+      "following_count": 320,
+      "video_count": 45,
+      "total_likes": 950000,
+      "growth_rate": 156.8,
+      "category": "music",
+      "location": "Nashville, TN",
+      "verified": false,
+      "recent_viral_videos": 2,
+      "avg_views_per_video": 45000,
+      "engagement_rate": 12.3,
+      "a_r_score": 87.6,
+      "notable_sounds": [
+        "acoustic_demo_001"
+      ],
+      "collaboration_potential": "medium"
+    },
+    {
+      "id": "creator_003",
+      "username": "newtalent2025",
+      "display_name": "New Talent",
+      "follower_count": 28000,
+      "following_count": 180,
+      "video_count": 23,
+      "total_likes": 350000,
+      "growth_rate": 245.2,
+      "category": "music",
+      "location": "Atlanta, GA",
+      "verified": false,
+      "recent_viral_videos": 1,
+      "avg_views_per_video": 32000,
+      "engagement_rate": 15.7,
+      "a_r_score": 95.1,
+      "notable_sounds": [
+        "rap_freestyle_001"
+      ],
+      "collaboration_potential": "very_high"
+    }
+  ],
+  "timestamp": "2025-08-06T02:47:38.823178",
+  "total_count": 3,
+  "analysis": {
+    "fastest_growing": "newtalent2025",
+    "highest_engagement": "newtalent2025",
+    "top_a_r_prospect": "newtalent2025",
+    "trending_genres": [
+      "hip-hop",
+      "indie",
+      "pop"
+    ],
+    "emerging_markets": [
+      "Atlanta",
+      "Nashville",
+      "Los Angeles"
+    ]
+  }
+}

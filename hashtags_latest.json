@@ -1,0 +1,61 @@
+{
+  "hashtags": [
+    {
+      "tag": "viral2025",
+      "usage_count": 2500000,
+      "growth_rate": 150.5,
+      "category": "trending",
+      "description": "Viral content from 2025",
+      "related_sounds": [
+        "sound_001",
+        "sound_002"
+      ],
+      "top_creators": [
+        "user123",
+        "creator456"
+      ],
+      "peak_time": "2025-08-06T14:00:00Z"
+    },
+    {
+      "tag": "dancechallenge",
+      "usage_count": 1800000,
+      "growth_rate": 89.2,
+      "category": "dance",
+      "description": "Latest dance challenge trend",
+      "related_sounds": [
+        "sound_003"
+      ],
+      "top_creators": [
+        "dancer789"
+      ],
+      "peak_time": "2025-08-06T16:00:00Z"
+    },
+    {
+      "tag": "newmusic",
+      "usage_count": 950000,
+      "growth_rate": 67.8,
+      "category": "music",
+      "description": "New music releases and previews",
+      "related_sounds": [
+        "sound_004",
+        "sound_005"
+      ],
+      "top_creators": [
+        "musician101",
+        "artist202"
+      ],
+      "peak_time": "2025-08-06T12:00:00Z"
+    }
+  ],
+  "timestamp": "2025-08-06T02:47:38.718227",
+  "total_count": 3,
+  "analysis": {
+    "fastest_growing": "viral2025",
+    "most_used": "viral2025",
+    "emerging_categories": [
+      "music",
+      "dance",
+      "lifestyle"
+    ]
+  }
+}

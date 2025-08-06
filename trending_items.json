@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "timestamp": "2025-08-06T02:35:00",
+      "source": "discover_www",
+      "id": "test_trend_001",
+      "type": 2,
+      "title": "Amazing Dance Challenge",
+      "desc": "Check out this viral dance challenge! #dance #viral #trending #fyp",
+      "author": {
+        "uniqueId": "dancer123",
+        "nickname": "DanceKing"
+      },
+      "stats": {
+        "playCount": 250000,
+        "diggCount": 15000,
+        "shareCount": 2500,
+        "commentCount": 1200
+      },
+      "music": {
+        "id": "music_123",
+        "title": "Catchy Beat",
+        "author": "BeatMaker"
+      },
+      "hashtags": ["dance", "viral", "trending", "fyp"],
+      "raw_data": {}
+    },
+    {
+      "timestamp": "2025-08-06T02:36:00",
+      "source": "discover_us",
+      "id": "test_trend_002", 
+      "type": 2,
+      "title": "New Song Preview",
+      "desc": "Sneak peek of my new single dropping soon! #music #newrelease #artist",
+      "author": {
+        "uniqueId": "newartist456",
+        "nickname": "RisingArtist"
+      },
+      "stats": {
+        "playCount": 45000,
+        "diggCount": 8500,
+        "shareCount": 1200,
+        "commentCount": 350
+      },
+      "music": {
+        "id": "music_456",
+        "title": "Untitled Track",
+        "author": "RisingArtist"
+      },
+      "hashtags": ["music", "newrelease", "artist"],
+      "raw_data": {}
+    },
+    {
+      "timestamp": "2025-08-06T02:37:00",
+      "source": "discover_www",
+      "id": "test_trend_003",
+      "type": 2,
+      "title": "Cooking Hack Goes Viral",
+      "desc": "This cooking hack will change your life! #cooking #lifehack #kitchen #food",
+      "author": {
+        "uniqueId": "chef789",
+        "nickname": "ChefLife"
+      },
+      "stats": {
+        "playCount": 1200000,
+        "diggCount": 85000,
+        "shareCount": 12000,
+        "commentCount": 5500
+      },
+      "music": {
+        "id": "music_789",
+        "title": "Kitchen Vibes",
+        "author": "CookingBeats"
+      },
+      "hashtags": ["cooking", "lifehack", "kitchen", "food"],
+      "raw_data": {}
+    }
+  ],
+  "count": 3,
+  "timestamp": "2025-08-06T02:35:00"
+}

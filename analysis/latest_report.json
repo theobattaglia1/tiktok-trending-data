@@ -1,0 +1,129 @@
+{
+  "summary": {
+    "stage_counts": {
+      "New": 1,
+      "Early Traction": 0,
+      "Steady": 1,
+      "Massive": 1
+    },
+    "recent_trends_24h": 3,
+    "top_hashtags": [
+      {
+        "hashtag": "viral",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "trending",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "newrelease",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "music",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "lifehack",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "kitchen",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "fyp",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "food",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "dance",
+        "usage_count": 2
+      },
+      {
+        "hashtag": "cooking",
+        "usage_count": 2
+      }
+    ],
+    "total_trends": 3,
+    "last_updated": "2025-08-06T02:42:53.100305"
+  },
+  "breakout_trends": {
+    "1_hour": [],
+    "6_hours": [],
+    "24_hours": []
+  },
+  "trends_by_stage": {
+    "new": [
+      {
+        "id": "test_trend_002",
+        "title": "New Song Preview",
+        "author": "newartist456",
+        "description": "Sneak peek of my new single dropping soon! #music #newrelease #artist",
+        "timestamp": "2025-08-06T02:36:00",
+        "source": "discover_us",
+        "view_count": 45000,
+        "like_count": 8500,
+        "share_count": 1200,
+        "comment_count": 350,
+        "music_id": "music_456",
+        "virality_stage": "New",
+        "growth_rate": 0.0,
+        "first_seen": "2025-08-06 02:42:21.938662",
+        "last_updated": "2025-08-06 02:42:53.097029",
+        "raw_data": "{}"
+      }
+    ],
+    "early_traction": [],
+    "steady": [
+      {
+        "id": "test_trend_001",
+        "title": "Amazing Dance Challenge",
+        "author": "dancer123",
+        "description": "Check out this viral dance challenge! #dance #viral #trending #fyp",
+        "timestamp": "2025-08-06T02:35:00",
+        "source": "discover_www",
+        "view_count": 250000,
+        "like_count": 15000,
+        "share_count": 2500,
+        "comment_count": 1200,
+        "music_id": "music_123",
+        "virality_stage": "Steady",
+        "growth_rate": 0.0,
+        "first_seen": "2025-08-06 02:42:21.936638",
+        "last_updated": "2025-08-06 02:42:53.095134",
+        "raw_data": "{}"
+      }
+    ],
+    "massive": [
+      {
+        "id": "test_trend_003",
+        "title": "Cooking Hack Goes Viral",
+        "author": "chef789",
+        "description": "This cooking hack will change your life! #cooking #lifehack #kitchen #food",
+        "timestamp": "2025-08-06T02:37:00",
+        "source": "discover_www",
+        "view_count": 1200000,
+        "like_count": 85000,
+        "share_count": 12000,
+        "comment_count": 5500,
+        "music_id": "music_789",
+        "virality_stage": "Massive",
+        "growth_rate": 0.0,
+        "first_seen": "2025-08-06 02:42:21.940161",
+        "last_updated": "2025-08-06 02:42:53.098662",
+        "raw_data": "{}"
+      }
+    ]
+  },
+  "ar_alerts": {
+    "high_priority": [],
+    "medium_priority": [],
+    "low_priority": []
+  },
+  "generated_at": "2025-08-06T02:42:53.102400"
+}
