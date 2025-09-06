@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -855,7 +855,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p16-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757163600&x-signature=T9HiaPWHN%2BtVsF79EgnQOKWASxU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757163600&x-signature=wBZP4LtuB1BIQg32wGsfyC6IJyQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "107.7M views",
             "description": "",
@@ -931,14 +931,14 @@
             "type": 3,
             "cover": "https://p16-common-sign-sg.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1757163600&x-signature=6TLh7ybbhWzah%2BSknu2FfF0H0gE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#lovemyhome",
-            "subTitle": "566.7M views",
+            "subTitle": "566.8M views",
             "description": "✨🏡 Transform your dream home space into a haven of comfort and style! From plush rugs 🧶 to cozy bedding 🛏️, and elegant cookware 🍳—share your favorite home essentials with #LoveMyHome and inspire others to elevate their homes! 🌟📸 Let's showcase the art of living well!",
             "link": "/tag/lovemyhome",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 566700000,
+              "views": 566800000,
               "challengeId": "1859875",
               "challengeName": "lovemyhome"
             }
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1168,7 +1168,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
