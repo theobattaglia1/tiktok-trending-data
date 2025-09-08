@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -892,7 +892,7 @@
           "cardItem": {
             "id": "1670509115547649",
             "type": 3,
-            "cover": "https://p16-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=uFK5%2BnyNhrm4gedl76%2B7%2FZiyAew%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=g00j7s5iS1y8%2FTVGsi33955mjdA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#SuperBrandDay",
             "subTitle": "7B views",
             "description": "Celebrate Super Brand Day on TikTok Shop!\n\nDiscover the biggest brands and their best deals of the year—exclusively on TikTok Shop.",
@@ -948,7 +948,7 @@
           "cardItem": {
             "id": "7300310793566814250",
             "type": 3,
-            "cover": "https://p19-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/2aa644a9496da9ec73207ae80d412f4f.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=T1o8UKSfRtUdbJfIiC4iEOip97E%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/2aa644a9496da9ec73207ae80d412f4f.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=dQcODpw3RXhZbV8CQM1%2B9eNaSfI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#beachwavertok",
             "subTitle": "70M views",
             "description": "Beachwaver’s Super Brand Day is here from May 20–26, and you don't want to miss it!\n\nFrom their viral curling irons to dreamy body butters and fragrances, Beachwaver is offering up to 70% OFF for one week only on TikTok Shop — their biggest sale yet!",
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1160,7 +1160,7 @@
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459200
             }
           }
@@ -1168,7 +1168,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
