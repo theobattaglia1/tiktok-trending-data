@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "86328792343818240",
       "type": 2,
@@ -38,12 +38,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7047450743465477126",
       "type": 2,
       "title": "Bad Bunny",
-      "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=eea7a875&x-expires=1757523600&x-signature=GIQ3wbXMcfSfi2CD5c6JDAPpvjk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast8",
+      "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=eea7a875&x-expires=1757523600&x-signature=GIQ3wbXMcfSfi2CD5c6JDAPpvjk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -52,7 +52,7 @@
       "raw_data": {
         "id": "7047450743465477126",
         "type": 2,
-        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=eea7a875&x-expires=1757523600&x-signature=GIQ3wbXMcfSfi2CD5c6JDAPpvjk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast8",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310298084372660270~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=eea7a875&x-expires=1757523600&x-signature=GIQ3wbXMcfSfi2CD5c6JDAPpvjk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "title": "Bad Bunny",
         "subTitle": "@badbunny",
         "description": ".",
@@ -70,17 +70,17 @@
           "video": 9,
           "following": 0,
           "heart": 419200000,
-          "digg": 283
+          "digg": 284
         }
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6745191554350760966",
       "type": 2,
       "title": "The Rock",
-      "cover": "https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/7310325298631802885~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=b816be8b&x-expires=1757523600&x-signature=ty1DEAuKs%2FlkEjJH99HDfOTN9sE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/7310325298631802885~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9bf08900&x-expires=1757523600&x-signature=ygZclB%2FBsdjnA9knlgLlb8sB9Oc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -89,7 +89,7 @@
       "raw_data": {
         "id": "6745191554350760966",
         "type": 2,
-        "cover": "https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/7310325298631802885~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=b816be8b&x-expires=1757523600&x-signature=ty1DEAuKs%2FlkEjJH99HDfOTN9sE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/7310325298631802885~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9bf08900&x-expires=1757523600&x-signature=ygZclB%2FBsdjnA9knlgLlb8sB9Oc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "The Rock",
         "subTitle": "@therock",
         "description": "CEO of #RockTok\nLife's so much sweeter when you're not an asshole",
@@ -112,7 +112,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6760381874016912390",
       "type": 2,
@@ -149,12 +149,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "126223816648822784",
       "type": 2,
       "title": "rauwalejandro",
-      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/88f48283fb6c9d2744f01249583c89f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=1370237c&x-expires=1757523600&x-signature=5TSxNrMvUY2SB9xMY%2BMzoyHAzNc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/88f48283fb6c9d2744f01249583c89f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=134de10e&x-expires=1757523600&x-signature=CgMWV1zHMtT1nIllMNUhHyRtfqk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -163,7 +163,7 @@
       "raw_data": {
         "id": "126223816648822784",
         "type": 2,
-        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/88f48283fb6c9d2744f01249583c89f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=1370237c&x-expires=1757523600&x-signature=5TSxNrMvUY2SB9xMY%2BMzoyHAzNc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/88f48283fb6c9d2744f01249583c89f8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=134de10e&x-expires=1757523600&x-signature=CgMWV1zHMtT1nIllMNUhHyRtfqk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "rauwalejandro",
         "subTitle": "@rauwalejandro",
         "description": "Puertorrican R&B/Reggaeton singer 🇵🇷",
@@ -186,12 +186,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "168541398546182144",
       "type": 2,
       "title": "Shakira",
-      "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5d3225b25096a8dd85eb27f26cad592~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=2400f092&x-expires=1757523600&x-signature=q7wkYw8AkF0CYpzLfNp5AVBcxN8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5d3225b25096a8dd85eb27f26cad592~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=8e1eebd1&x-expires=1757523600&x-signature=s8F69cg7ZON%2F7nELglYNyIuvS0I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -200,7 +200,7 @@
       "raw_data": {
         "id": "168541398546182144",
         "type": 2,
-        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5d3225b25096a8dd85eb27f26cad592~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=2400f092&x-expires=1757523600&x-signature=q7wkYw8AkF0CYpzLfNp5AVBcxN8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e5d3225b25096a8dd85eb27f26cad592~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=8e1eebd1&x-expires=1757523600&x-signature=s8F69cg7ZON%2F7nELglYNyIuvS0I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast8",
         "title": "Shakira",
         "subTitle": "@shakira",
         "description": "#LMYNLWorldTour",
@@ -223,12 +223,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "142565009246584832",
       "type": 2,
       "title": "Marshmello",
-      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b2ebd1cdc058e62455311e32b799519~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=5ff3be23&x-expires=1757523600&x-signature=LFgs87RAqCv3tl2l9Qz%2BNjHw3Gw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b2ebd1cdc058e62455311e32b799519~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=064991b8&x-expires=1757523600&x-signature=0zq4eZ9UA9kiZfYVB%2BUk0SgUVuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -237,7 +237,7 @@
       "raw_data": {
         "id": "142565009246584832",
         "type": 2,
-        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b2ebd1cdc058e62455311e32b799519~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=5ff3be23&x-expires=1757523600&x-signature=LFgs87RAqCv3tl2l9Qz%2BNjHw3Gw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b2ebd1cdc058e62455311e32b799519~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=064991b8&x-expires=1757523600&x-signature=0zq4eZ9UA9kiZfYVB%2BUk0SgUVuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Marshmello",
         "subTitle": "@marshmello",
         "description": "Marshmello x Jelly Roll  - 'Holy Water' - OUT NOW",
@@ -248,19 +248,19 @@
         "extraInfo": {
           "verified": true,
           "fans": 25200000,
-          "likes": 254800000,
+          "likes": 254900000,
           "userId": "142565009246584832",
           "secUid": "MS4wLjABAAAAoIjsp53EitSm7GKWMT2VaeDZA25CzmzbvLDyFUJwpCZk7B5PmCoYlO2cV4y_-it9",
           "relation": 0,
           "video": 488,
           "following": 232,
-          "heart": 254800000,
+          "heart": 254900000,
           "digg": 5585
         }
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6881290705605477381",
       "type": 2,
@@ -297,12 +297,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "97614653324771328",
       "type": 2,
       "title": "Selena Gomez",
-      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18697e31f6f487f30f472dd4fd67ee6d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=94c64c0c&x-expires=1757523600&x-signature=iuIKVQI3oqEzC82X4hCOWbiEJpk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18697e31f6f487f30f472dd4fd67ee6d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=1eeb3ac5&x-expires=1757523600&x-signature=4p6r%2F0E6j%2BHVuSDVfMAigjN1SZs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -311,7 +311,7 @@
       "raw_data": {
         "id": "97614653324771328",
         "type": 2,
-        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18697e31f6f487f30f472dd4fd67ee6d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=94c64c0c&x-expires=1757523600&x-signature=iuIKVQI3oqEzC82X4hCOWbiEJpk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18697e31f6f487f30f472dd4fd67ee6d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=1eeb3ac5&x-expires=1757523600&x-signature=4p6r%2F0E6j%2BHVuSDVfMAigjN1SZs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Selena Gomez",
         "subTitle": "@selenagomez",
         "description": "",
@@ -334,12 +334,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "141140993138962432",
       "type": 2,
       "title": "Post Malone",
-      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7306f458345f77c207ef6fb53eb59720~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=2e36ea07&x-expires=1757523600&x-signature=%2FpSpemDW0CUAQybdxa6jQA0Pn2Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7306f458345f77c207ef6fb53eb59720~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=1eabb451&x-expires=1757523600&x-signature=8V0FGRb0DtrStwKpJma7t276ea0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -348,7 +348,7 @@
       "raw_data": {
         "id": "141140993138962432",
         "type": 2,
-        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7306f458345f77c207ef6fb53eb59720~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=2e36ea07&x-expires=1757523600&x-signature=%2FpSpemDW0CUAQybdxa6jQA0Pn2Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7306f458345f77c207ef6fb53eb59720~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=1eabb451&x-expires=1757523600&x-signature=8V0FGRb0DtrStwKpJma7t276ea0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Post Malone",
         "subTitle": "@postmalone",
         "description": "F-1 Trillion: Long Bed out now",
@@ -371,7 +371,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6711995161218286598",
       "type": 2,
@@ -408,12 +408,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "224891697648857088",
       "type": 2,
       "title": "Nicki Minaj",
-      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=bb8ee0ed&x-expires=1757523600&x-signature=uL1gDUqvGDtwq1GCRCPvrYQaHFY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9413fb43&x-expires=1757523600&x-signature=5IkQT9cAJgOd269Ct1Gw7WTu26I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -422,7 +422,7 @@
       "raw_data": {
         "id": "224891697648857088",
         "type": 2,
-        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=bb8ee0ed&x-expires=1757523600&x-signature=uL1gDUqvGDtwq1GCRCPvrYQaHFY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9413fb43&x-expires=1757523600&x-signature=5IkQT9cAJgOd269Ct1Gw7WTu26I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Nicki Minaj",
         "subTitle": "@nickiminaj",
         "description": "",
@@ -445,7 +445,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6747935906352907269",
       "type": 2,
@@ -482,12 +482,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6811538513018012677",
       "type": 2,
       "title": "Sia",
-      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7dbda8b9f7be75cf27b06a0edcc51c6c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=826eca38&x-expires=1757523600&x-signature=whpVHQY2wkS5s0WyQoqIrwRikCo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7dbda8b9f7be75cf27b06a0edcc51c6c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=8147c754&x-expires=1757523600&x-signature=g617vyPGHA%2Bo7OE5gwmsF%2FwAsfM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -496,7 +496,7 @@
       "raw_data": {
         "id": "6811538513018012677",
         "type": 2,
-        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7dbda8b9f7be75cf27b06a0edcc51c6c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=826eca38&x-expires=1757523600&x-signature=whpVHQY2wkS5s0WyQoqIrwRikCo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7dbda8b9f7be75cf27b06a0edcc51c6c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=8147c754&x-expires=1757523600&x-signature=g617vyPGHA%2Bo7OE5gwmsF%2FwAsfM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Sia",
         "subTitle": "@sia",
         "description": "'Reasonable Woman' out now!",
@@ -519,7 +519,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6746264168812659717",
       "type": 2,
@@ -556,7 +556,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "132667022575992832",
       "type": 2,
@@ -593,12 +593,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "173245838817808384",
       "type": 2,
       "title": "Ed Sheeran",
-      "cover": "https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/30b836bd526ae66d12aef01b446518b9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=51e6adef&x-expires=1757523600&x-signature=qVTCRNUZcMPcgYziabKshYVQeu0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/30b836bd526ae66d12aef01b446518b9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=187255c6&x-expires=1757523600&x-signature=bxHEKJxGhqlGAcVZpCdimdRkihE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -607,7 +607,7 @@
       "raw_data": {
         "id": "173245838817808384",
         "type": 2,
-        "cover": "https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/30b836bd526ae66d12aef01b446518b9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=51e6adef&x-expires=1757523600&x-signature=qVTCRNUZcMPcgYziabKshYVQeu0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-avt-0068/30b836bd526ae66d12aef01b446518b9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=187255c6&x-expires=1757523600&x-signature=bxHEKJxGhqlGAcVZpCdimdRkihE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Ed Sheeran",
         "subTitle": "@edsheeran",
         "description": "Play out 12th September x",
@@ -630,7 +630,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6879693940111901701",
       "type": 2,
@@ -667,12 +667,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7084315756325782570",
       "type": 2,
       "title": "Cooking With Marshmello",
-      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=e839da72&x-expires=1757523600&x-signature=zOvZmSyzrLq6BCC%2FtMJxOzvOdcU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=24e666b1&x-expires=1757523600&x-signature=GLQKDJf1RsWzgTGz5vEYVGH2inA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -681,7 +681,7 @@
       "raw_data": {
         "id": "7084315756325782570",
         "type": 2,
-        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=e839da72&x-expires=1757523600&x-signature=zOvZmSyzrLq6BCC%2FtMJxOzvOdcU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=24e666b1&x-expires=1757523600&x-signature=GLQKDJf1RsWzgTGz5vEYVGH2inA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Cooking With Marshmello",
         "subTitle": "@cookingwithmarshmello",
         "description": "Full-Time Chef, Part-Time DJ @Marshmello \nMello cookbook 👇",
@@ -704,12 +704,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "59363135073038336",
       "type": 2,
       "title": "Bebe Rexha",
-      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/9338d2f6b4811c23be1c807c9f6d3072~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d3aef05d&x-expires=1757523600&x-signature=Skx%2B1dbB46XepTjGLbKVeIp39ds%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/9338d2f6b4811c23be1c807c9f6d3072~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=8df9f6d7&x-expires=1757523600&x-signature=svgDx4tqgT2wE7dBwbVAnwsmSRA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -718,7 +718,7 @@
       "raw_data": {
         "id": "59363135073038336",
         "type": 2,
-        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/9338d2f6b4811c23be1c807c9f6d3072~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d3aef05d&x-expires=1757523600&x-signature=Skx%2B1dbB46XepTjGLbKVeIp39ds%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/9338d2f6b4811c23be1c807c9f6d3072~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=8df9f6d7&x-expires=1757523600&x-signature=svgDx4tqgT2wE7dBwbVAnwsmSRA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Bebe Rexha",
         "subTitle": "@beberexha",
         "description": "‘IM THE DRAMA’ OUT NOW 💅🏼",
@@ -741,7 +741,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6761177948009956358",
       "type": 2,
@@ -778,7 +778,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6930646914937930757",
       "type": 2,
@@ -815,12 +815,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6807605867299603461",
       "type": 2,
       "title": "chrisbrownofficial",
-      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/2ed99ee946b50bb70274e7d56f73f74b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=f0a1f822&x-expires=1757523600&x-signature=mHuMd9ZB7zoqkpS9ktTre8FBt8Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/2ed99ee946b50bb70274e7d56f73f74b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=f0a1f822&x-expires=1757523600&x-signature=mHuMd9ZB7zoqkpS9ktTre8FBt8Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -829,7 +829,7 @@
       "raw_data": {
         "id": "6807605867299603461",
         "type": 2,
-        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/2ed99ee946b50bb70274e7d56f73f74b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=f0a1f822&x-expires=1757523600&x-signature=mHuMd9ZB7zoqkpS9ktTre8FBt8Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/2ed99ee946b50bb70274e7d56f73f74b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=f0a1f822&x-expires=1757523600&x-signature=mHuMd9ZB7zoqkpS9ktTre8FBt8Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "title": "chrisbrownofficial",
         "subTitle": "@chrisbrownofficial",
         "description": "",
@@ -852,12 +852,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6693590239291917318",
       "type": 2,
       "title": "The Weeknd",
-      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/d908e4b32845e2c472b9f0d16575c6d4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=288c1131&x-expires=1757523600&x-signature=Yax%2BW6l5EAxTsaEQWb7YN3qA%2F9o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/d908e4b32845e2c472b9f0d16575c6d4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=288c1131&x-expires=1757523600&x-signature=Yax%2BW6l5EAxTsaEQWb7YN3qA%2F9o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -866,7 +866,7 @@
       "raw_data": {
         "id": "6693590239291917318",
         "type": 2,
-        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/d908e4b32845e2c472b9f0d16575c6d4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=288c1131&x-expires=1757523600&x-signature=Yax%2BW6l5EAxTsaEQWb7YN3qA%2F9o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/d908e4b32845e2c472b9f0d16575c6d4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=288c1131&x-expires=1757523600&x-signature=Yax%2BW6l5EAxTsaEQWb7YN3qA%2F9o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast8",
         "title": "The Weeknd",
         "subTitle": "@theweeknd",
         "description": "",
@@ -889,12 +889,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6611099612067856390",
       "type": 2,
       "title": "JLO",
-      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/7c57e3416a14dba20ea5c1bec66c740f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d7f36ea2&x-expires=1757523600&x-signature=BhCK6kpi%2FgeVIQeTMHHkz2y2tso%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/7c57e3416a14dba20ea5c1bec66c740f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9dbc155e&x-expires=1757523600&x-signature=uWbPG77D7jvQatKmgE5gtW0dNj8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -903,7 +903,7 @@
       "raw_data": {
         "id": "6611099612067856390",
         "type": 2,
-        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/7c57e3416a14dba20ea5c1bec66c740f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d7f36ea2&x-expires=1757523600&x-signature=BhCK6kpi%2FgeVIQeTMHHkz2y2tso%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/7c57e3416a14dba20ea5c1bec66c740f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9dbc155e&x-expires=1757523600&x-signature=uWbPG77D7jvQatKmgE5gtW0dNj8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "JLO",
         "subTitle": "@jlo",
         "description": "🎂 BIRTHDAY OUT NOW 🦁 \n💫 UP ALL NIGHT Live In Las Vegas Begins 12/30 🌟",
@@ -926,7 +926,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6650307866375618566",
       "type": 2,
@@ -963,12 +963,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7050076999289521158",
       "type": 2,
       "title": "Justin Timberlake",
-      "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=5b1e2ed9&x-expires=1757523600&x-signature=HhOCWZQmiLQMmOxRG4hVZuTwS%2BA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=5b1e2ed9&x-expires=1757523600&x-signature=HhOCWZQmiLQMmOxRG4hVZuTwS%2BA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -977,7 +977,7 @@
       "raw_data": {
         "id": "7050076999289521158",
         "type": 2,
-        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=5b1e2ed9&x-expires=1757523600&x-signature=HhOCWZQmiLQMmOxRG4hVZuTwS%2BA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/59d86801aec13e838ff4542960db504e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=5b1e2ed9&x-expires=1757523600&x-signature=HhOCWZQmiLQMmOxRG4hVZuTwS%2BA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
         "title": "Justin Timberlake",
         "subTitle": "@justintimberlake",
         "description": "Jessica Biel’s boyfriend",
@@ -1000,12 +1000,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "159398380291555328",
       "type": 2,
       "title": "Bruno Mars",
-      "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e065bd760fb46e0afeda1870fed11d80~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=bc780ef1&x-expires=1757523600&x-signature=XJh1sjOv09Ax8dFoU58izj3mYUE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e065bd760fb46e0afeda1870fed11d80~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=dad6e4e8&x-expires=1757523600&x-signature=U%2B3AbP5BuxKgmE07GFL3gqF4770%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -1014,7 +1014,7 @@
       "raw_data": {
         "id": "159398380291555328",
         "type": 2,
-        "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e065bd760fb46e0afeda1870fed11d80~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=bc780ef1&x-expires=1757523600&x-signature=XJh1sjOv09Ax8dFoU58izj3mYUE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e065bd760fb46e0afeda1870fed11d80~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=dad6e4e8&x-expires=1757523600&x-signature=U%2B3AbP5BuxKgmE07GFL3gqF4770%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Bruno Mars",
         "subTitle": "@brunomars",
         "description": "",
@@ -1037,7 +1037,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7048381615760262149",
       "type": 2,
@@ -1074,12 +1074,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6621955904844021765",
       "type": 2,
       "title": "Rihanna",
-      "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d6901053&x-expires=1757523600&x-signature=Dx9oBVHhcX2YJalMrxn4W%2FkDQ%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+      "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=27b608e0&x-expires=1757523600&x-signature=E1oofLwZ%2FQ0gAQqg7BChsVYfjFY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
       "desc": "",
       "author": {},
       "stats": {},
@@ -1088,7 +1088,7 @@
       "raw_data": {
         "id": "6621955904844021765",
         "type": 2,
-        "cover": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d6901053&x-expires=1757523600&x-signature=Dx9oBVHhcX2YJalMrxn4W%2FkDQ%2BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
+        "cover": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=27b608e0&x-expires=1757523600&x-signature=E1oofLwZ%2FQ0gAQqg7BChsVYfjFY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8",
         "title": "Rihanna",
         "subTitle": "@rihanna",
         "description": "",
@@ -1111,7 +1111,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7149057085190193198",
       "type": 3,
@@ -1141,7 +1141,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "14963587",
       "type": 3,
@@ -1170,7 +1170,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "1623103798982821",
       "type": 3,
@@ -1200,7 +1200,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7057267904445841413",
       "type": 3,
@@ -1230,7 +1230,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "1679714727686146",
       "type": 3,
@@ -1259,12 +1259,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "1670509115547649",
       "type": 3,
       "title": "#SuperBrandDay",
-      "cover": "https://p19-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=g00j7s5iS1y8%2FTVGsi33955mjdA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "cover": "https://p16-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=uFK5%2BnyNhrm4gedl76%2B7%2FZiyAew%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
       "desc": "",
       "author": {},
       "stats": {},
@@ -1273,7 +1273,7 @@
       "raw_data": {
         "id": "1670509115547649",
         "type": 3,
-        "cover": "https://p19-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=g00j7s5iS1y8%2FTVGsi33955mjdA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+        "cover": "https://p16-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757372400&x-signature=uFK5%2BnyNhrm4gedl76%2B7%2FZiyAew%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
         "title": "#SuperBrandDay",
         "subTitle": "7B views",
         "description": "Celebrate Super Brand Day on TikTok Shop!\n\nDiscover the biggest brands and their best deals of the year—exclusively on TikTok Shop.",
@@ -1289,7 +1289,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7508640373091074079",
       "type": 3,
@@ -1318,7 +1318,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "1859875",
       "type": 3,
@@ -1348,7 +1348,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7300310793566814250",
       "type": 3,
@@ -1378,7 +1378,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "7501020821364670486",
       "type": 3,
@@ -1408,7 +1408,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6740248251825391617",
       "type": 1,
@@ -1438,7 +1438,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "5000000001008467945",
       "type": 1,
@@ -1468,7 +1468,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "222453230176251905",
       "type": 1,
@@ -1492,13 +1492,13 @@
         "link": "/music/Hasta-la-Raíz-222453230176251905",
         "extraInfo": {
           "musicId": "222453230176251905",
-          "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
+          "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
           "posts": 229300
         }
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6990410706927536902",
       "type": 1,
@@ -1528,7 +1528,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6872482756727670785",
       "type": 1,
@@ -1558,7 +1558,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6914711053674760193",
       "type": 1,
@@ -1588,7 +1588,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6907566405198841857",
       "type": 1,
@@ -1618,7 +1618,7 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6753170536311818242",
       "type": 1,
@@ -1648,12 +1648,12 @@
       }
     },
     {
-      "timestamp": "2025-09-08T17:46:01.280324",
+      "timestamp": "2025-09-08T17:54:46.747796",
       "source": "discover_us",
       "id": "6878744350931634950",
       "type": 1,
       "title": "真夜中のドア〜stay with me",
-      "cover": "https://p19-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+      "cover": "https://p16-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
       "desc": "",
       "author": {},
       "stats": {},
@@ -1665,7 +1665,7 @@
         "round": false,
         "playToken": "",
         "keyToken": "",
-        "cover": "https://p19-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+        "cover": "https://p16-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
         "title": "真夜中のドア〜stay with me",
         "subTitle": "459.2K videos",
         "description": "松原みき",
@@ -1679,5 +1679,5 @@
     }
   ],
   "count": 49,
-  "timestamp": "2025-09-08T17:46:07.876861"
+  "timestamp": "2025-09-08T17:54:52.987541"
 }
