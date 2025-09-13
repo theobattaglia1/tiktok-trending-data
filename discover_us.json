@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -855,7 +855,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p19-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757797200&x-signature=BxqKXvR8S%2B2iz0c6BPyBKKftt8g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1757797200&x-signature=TXcXdvhVzoBMedm5oNs51T%2FhH7Y%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "113.9M views",
             "description": "",
@@ -931,14 +931,14 @@
             "type": 3,
             "cover": "https://p16-common-sign-sg.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1757797200&x-signature=xzv8cc4JyoosJDgKPRamTIjwTKs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#lovemyhome",
-            "subTitle": "593.9M views",
+            "subTitle": "594M views",
             "description": "✨🏡 Transform your dream home space into a haven of comfort and style! From plush rugs 🧶 to cozy bedding 🛏️, and elegant cookware 🍳—share your favorite home essentials with #LoveMyHome and inspire others to elevate their homes! 🌟📸 Let's showcase the art of living well!",
             "link": "/tag/lovemyhome",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 593900000,
+              "views": 594000000,
               "challengeId": "1859875",
               "challengeName": "lovemyhome"
             }
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1001,7 +1001,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p19-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/o8yiAEohEAkLAsdWEYAUpABIAsfDFotauwlzIh~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/o8yiAEohEAkLAsdWEYAUpABIAsfDFotauwlzIh~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Forever",
             "subTitle": "3.2M videos",
             "description": "Labrinth",
@@ -1103,7 +1103,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 866600
             }
           }
@@ -1115,14 +1115,14 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/34b723d31d6d4cd49f5ef94a969321c4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/34b723d31d6d4cd49f5ef94a969321c4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Afterglow",
             "subTitle": "217.3K videos",
             "description": "Ed Sheeran",
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 217300
             }
           }
@@ -1160,7 +1160,7 @@
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459200
             }
           }
@@ -1168,7 +1168,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
