@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -836,7 +836,7 @@
           "cardItem": {
             "id": "1623103798982821",
             "type": 3,
-            "cover": "https://p16-common-sign-sg.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758110400&x-signature=UqOiHKyLRbVmDk6hfaGSLvuTBmc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign-sg.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758110400&x-signature=U5S1U02s7EYLRDPBRV8zQJsjMcA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#smartliving",
             "subTitle": "1.1B views",
             "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
@@ -950,14 +950,14 @@
             "type": 3,
             "cover": "https://p16-common-sign-va.tiktokcdn-us.com/musically-maliva-obj/2aa644a9496da9ec73207ae80d412f4f.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758110400&x-signature=SvizDtU%2BITi%2BYe1ZCuGgnOGCLiM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#beachwavertok",
-            "subTitle": "70.1M views",
+            "subTitle": "70.2M views",
             "description": "Beachwaver’s Super Brand Day is here from May 20–26, and you don't want to miss it!\n\nFrom their viral curling irons to dreamy body butters and fragrances, Beachwaver is offering up to 70% OFF for one week only on TikTok Shop — their biggest sale yet!",
             "link": "/tag/beachwavertok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 70100000,
+              "views": 70200000,
               "challengeId": "7300310793566814250",
               "challengeName": "beachwavertok"
             }
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1001,7 +1001,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/o8yiAEohEAkLAsdWEYAUpABIAsfDFotauwlzIh~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/o8yiAEohEAkLAsdWEYAUpABIAsfDFotauwlzIh~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Forever",
             "subTitle": "3.2M videos",
             "description": "Labrinth",
@@ -1046,7 +1046,7 @@
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
               "posts": 229000
             }
           }
@@ -1084,7 +1084,7 @@
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
               "posts": 154200
             }
           }
@@ -1115,7 +1115,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/34b723d31d6d4cd49f5ef94a969321c4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/34b723d31d6d4cd49f5ef94a969321c4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Afterglow",
             "subTitle": "217.2K videos",
             "description": "Ed Sheeran",
@@ -1134,7 +1134,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sg.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Holly Jolly Christmas",
             "subTitle": "97.8K videos",
             "description": "Michael Bublé",
@@ -1153,14 +1153,14 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "真夜中のドア〜stay with me",
             "subTitle": "459.2K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459200
             }
           }
@@ -1168,7 +1168,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
