@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "86328792343818240",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/edaffea743a0969526d19cdbc2503db3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d86e3e08&x-expires=1758513600&x-signature=3qfpAQz%2FM4LZvHKnxQJyLQvrt0s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/edaffea743a0969526d19cdbc2503db3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=516c7267&x-expires=1758513600&x-signature=QZoZ%2B2G6cSujzKkY0dr0T959mQY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "tate mcrae",
             "subTitle": "@tatemcrae",
             "description": "i’m 21. So Close To What out now!!",
@@ -163,7 +163,7 @@
           "cardItem": {
             "id": "142565009246584832",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b2ebd1cdc058e62455311e32b799519~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=763e8c07&x-expires=1758513600&x-signature=eYdq%2Bnv767Lw%2BNIHuMvHlYhtyNA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8b2ebd1cdc058e62455311e32b799519~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=53226ad1&x-expires=1758513600&x-signature=LFzGEiQfXUrR2vUMNg6smWT%2BZmc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Marshmello",
             "subTitle": "@marshmello",
             "description": "Marshmello x Jelly Roll  - 'Holy Water' - OUT NOW",
@@ -189,7 +189,7 @@
           "cardItem": {
             "id": "6881290705605477381",
             "type": 2,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d078f4e48aaa3661047777408f63586~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=800605d1&x-expires=1758513600&x-signature=6uB8fqBeTHAK6siUl7SR%2Fmw6jRU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5d078f4e48aaa3661047777408f63586~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=8ee00aef&x-expires=1758513600&x-signature=OW2sj6LTY8KUAGKqigq7Kb42z0E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
             "title": "Taylor Swift",
             "subTitle": "@taylorswift",
             "description": "This is pretty much just a cat account",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "7048381615760262149",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/725c03323264553ec29bba546ab94c05~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=04271ffb&x-expires=1758513600&x-signature=Vgr7td4D5%2Br7GE%2BDA8qdQSz7ljY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/725c03323264553ec29bba546ab94c05~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=04271ffb&x-expires=1758513600&x-signature=Vgr7td4D5%2Br7GE%2BDA8qdQSz7ljY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
             "title": "Peso Pluma",
             "subTitle": "@therealpesopluma",
             "description": "La Doble P",
@@ -760,7 +760,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -959,7 +959,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -982,7 +982,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -994,7 +994,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/78ab24605f01407ca5a657502d22d021~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/78ab24605f01407ca5a657502d22d021~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Quinceañera",
             "subTitle": "70.3K videos",
             "description": "Banda Machos",
@@ -1039,7 +1039,7 @@
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
               "posts": 488400
             }
           }
@@ -1077,7 +1077,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 866000
             }
           }
@@ -1096,7 +1096,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 217200
             }
           }
@@ -1115,7 +1115,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 97800
             }
           }
@@ -1142,7 +1142,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
