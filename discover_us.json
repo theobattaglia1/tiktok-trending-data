@@ -267,7 +267,7 @@
           "cardItem": {
             "id": "6711995161218286598",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/88ac00218ef0ddccf399b1c6a2f4e9ea~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=10cf107b&x-expires=1758517200&x-signature=Xdwc7Y7GA8UT5IzSkG6K4CAiGYc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/88ac00218ef0ddccf399b1c6a2f4e9ea~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d373030e&x-expires=1758517200&x-signature=vS1LSXydqK%2FVa3hJ3yLZtAAWjto%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Sam Smith",
             "subTitle": "@samsmith",
             "description": "To Be Free: New York City. \n24 shows, October 8th - December 13th 🩵",
@@ -293,7 +293,7 @@
           "cardItem": {
             "id": "224891697648857088",
             "type": 2,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=6c08ff0f&x-expires=1758517200&x-signature=beRY%2FrPfhG94TYXpSNMBZZKW7RY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/09a65da8862132cb9dc4efa3b5925abe~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=4d28162a&x-expires=1758517200&x-signature=HRSCxX2rCiC8acY96nCaoye3NGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Nicki Minaj",
             "subTitle": "@nickiminaj",
             "description": "",
@@ -319,7 +319,7 @@
           "cardItem": {
             "id": "6747935906352907269",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7310612651137040390~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=1f961862&x-expires=1758517200&x-signature=8sjPPN3lrdwuJc2ecLpQIj9%2BfSI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7310612651137040390~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=e4df6f40&x-expires=1758517200&x-signature=9bRJesEEv8BikBfSEC2pqdedcgE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Gordon Ramsay",
             "subTitle": "@gordonramsayofficial",
             "description": "I cook sometimes too.....",
@@ -449,7 +449,7 @@
           "cardItem": {
             "id": "6879693940111901701",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a67f9744439872cde91754ff64b8a97d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=7c756487&x-expires=1758517200&x-signature=4UYrEgR14KYt1%2FbnonFmI50r86k%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a67f9744439872cde91754ff64b8a97d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=7c756487&x-expires=1758517200&x-signature=4UYrEgR14KYt1%2FbnonFmI50r86k%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "BILLIE EILISH",
             "subTitle": "@billieeilish",
             "description": "\"HIT ME HARD AND SOFT\" THE ALBUM\nOUT NOW",
@@ -760,7 +760,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -831,14 +831,14 @@
             "type": 3,
             "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758366000&x-signature=yCaSEJBNGhOaPlYdSqFwsYUgMYg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
-            "subTitle": "120.1M views",
+            "subTitle": "120.2M views",
             "description": "",
             "link": "/tag/globalpick",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 120100000,
+              "views": 120200000,
               "challengeId": "7057267904445841413",
               "challengeName": "globalpick"
             }
@@ -903,7 +903,7 @@
           "cardItem": {
             "id": "1859875",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1758366000&x-signature=b5s0NXpNnEZBMVWe7iuK0Y6pYt8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1758366000&x-signature=aKrtX99DGHdBlbnXyzPqQZH2%2Btk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#lovemyhome",
             "subTitle": "622.9M views",
             "description": "✨🏡 Transform your dream home space into a haven of comfort and style! From plush rugs 🧶 to cozy bedding 🛏️, and elegant cookware 🍳—share your favorite home essentials with #LoveMyHome and inspire others to elevate their homes! 🌟📸 Let's showcase the art of living well!",
@@ -959,7 +959,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1039,7 +1039,7 @@
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
               "posts": 488400
             }
           }
@@ -1142,7 +1142,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
