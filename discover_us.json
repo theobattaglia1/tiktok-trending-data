@@ -760,7 +760,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -810,7 +810,7 @@
           "cardItem": {
             "id": "1623103798982821",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758668400&x-signature=6ZbH81V7iEY5gWBYveslF4K1RCo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758668400&x-signature=A0DHe5WDbzudWoxksvBPasXN5yo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#smartliving",
             "subTitle": "1.2B views",
             "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
@@ -829,7 +829,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758668400&x-signature=S1MeY%2BOVvXbpIjKGnKdfBRhd9Qo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758668400&x-signature=LiE37MKRiusfAPDdkZcSqcxuQys%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "123.2M views",
             "description": "",
@@ -866,7 +866,7 @@
           "cardItem": {
             "id": "1670509115547649",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758668400&x-signature=riRtL1qs3XWXN6LCpNfF%2FhRG4s4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1758668400&x-signature=eqlQyCOobsdlHTGu%2Bq9p1D1gsPQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#SuperBrandDay",
             "subTitle": "7.2B views",
             "description": "Celebrate Super Brand Day on TikTok Shop!\n\nDiscover the biggest brands and their best deals of the year—exclusively on TikTok Shop.",
@@ -959,7 +959,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -994,7 +994,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/78ab24605f01407ca5a657502d22d021~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/78ab24605f01407ca5a657502d22d021~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Quinceañera",
             "subTitle": "70.5K videos",
             "description": "Banda Machos",
@@ -1020,7 +1020,7 @@
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
               "posts": 228800
             }
           }
@@ -1051,14 +1051,14 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/23a0eff8a40648aa95af4ef1ffc85e58~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Triple S",
             "subTitle": "154K videos",
             "description": "YN Jay & Louie Ray",
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
               "posts": 154000
             }
           }
@@ -1070,7 +1070,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o0I4IQEC0DCjfiARAHFiBZmABtng1BUNIrfVoE~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/o0I4IQEC0DCjfiARAHFiBZmABtng1BUNIrfVoE~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "drivers license",
             "subTitle": "865.6K videos",
             "description": "Olivia Rodrigo",
@@ -1115,7 +1115,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 97800
             }
           }
@@ -1142,7 +1142,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
