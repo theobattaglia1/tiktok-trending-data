@@ -760,7 +760,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -905,14 +905,14 @@
             "type": 3,
             "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1758729600&x-signature=B4zqLmMKXEX253WtCl8Bbiz6f1A%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#lovemyhome",
-            "subTitle": "638M views",
+            "subTitle": "638.1M views",
             "description": "✨🏡 Transform your dream home space into a haven of comfort and style! From plush rugs 🧶 to cozy bedding 🛏️, and elegant cookware 🍳—share your favorite home essentials with #LoveMyHome and inspire others to elevate their homes! 🌟📸 Let's showcase the art of living well!",
             "link": "/tag/lovemyhome",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 638000000,
+              "views": 638100000,
               "challengeId": "1859875",
               "challengeName": "lovemyhome"
             }
@@ -959,7 +959,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1001,7 +1001,7 @@
             "link": "/music/Quinceañera-5000000001008467945",
             "extraInfo": {
               "musicId": "5000000001008467945",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
               "posts": 70600
             }
           }
@@ -1058,7 +1058,7 @@
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
               "posts": 154000
             }
           }
@@ -1127,14 +1127,14 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "真夜中のドア〜stay with me",
             "subTitle": "459.3K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459300
             }
           }
@@ -1142,7 +1142,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
