@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -857,14 +857,14 @@
             "type": 3,
             "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759438800&x-signature=8%2FQVd5hYqBoAGxwy5VFxtVMJ1k8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
-            "subTitle": "129.8M views",
+            "subTitle": "129.9M views",
             "description": "",
             "link": "/tag/globalpick",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 129800000,
+              "views": 129900000,
               "challengeId": "7057267904445841413",
               "challengeName": "globalpick"
             }
@@ -892,7 +892,7 @@
           "cardItem": {
             "id": "1670509115547649",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759438800&x-signature=2Ffc3qUOHVMjU2qq0MiA4ocX4DA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759438800&x-signature=AgoGuScU3wlDJVZJ91lDLioB0qQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#SuperBrandDay",
             "subTitle": "7.3B views",
             "description": "Celebrate Super Brand Day on TikTok Shop!\n\nDiscover the biggest brands and their best deals of the year—exclusively on TikTok Shop.",
@@ -967,7 +967,7 @@
           "cardItem": {
             "id": "7501020821364670486",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/2c577a971050f2bf8a866a6f2b1f94f6.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759438800&x-signature=bLmmhm2oZcIbMVK1le6ZSPss8pE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/2c577a971050f2bf8a866a6f2b1f94f6.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759438800&x-signature=uUaWz7D157C7uR30XKhVks84sfc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#phlurpeachskin",
             "subTitle": "6.4M views",
             "description": "Introducing Peach Skin Body Mist on TikTok Shop for Phlur's New Arrivals Campaign from May 19-25!",
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1168,7 +1168,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
