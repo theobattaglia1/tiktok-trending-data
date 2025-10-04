@@ -207,7 +207,7 @@
               "video": 73,
               "following": 0,
               "heart": 253600000,
-              "digg": 2211
+              "digg": 2214
             }
           }
         },
@@ -215,7 +215,7 @@
           "cardItem": {
             "id": "97614653324771328",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18697e31f6f487f30f472dd4fd67ee6d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=30956aee&x-expires=1759773600&x-signature=B%2BS8mbJAka5Sh9ZazUgxqSEJ%2Fbc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/18697e31f6f487f30f472dd4fd67ee6d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=da0ccc87&x-expires=1759773600&x-signature=ek8dY%2BF%2BS2XRpzda1MR9uk1jpbk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Selena Gomez",
             "subTitle": "@selenagomez",
             "description": "",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d85474b9&x-expires=1759773600&x-signature=KtrPwu57dpxA7PIX7q%2BB1qf9WbM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=eb23eeeb&x-expires=1759773600&x-signature=1bZ0ezJFVdxwlFeWmgKFVe24I%2BQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -799,7 +799,7 @@
           "cardItem": {
             "id": "7149057085190193198",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=AmeeQWn8%2FCg2TzML0y4NS7rE4uM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=89mvODHWkq7pZalWEIdxbiDI3Fk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#fallfreshness",
             "subTitle": "3.1B views",
             "description": "Define your looks and drop it with #FallFreshness! 🍂 From cozy knits to city-ready layers, discover autumn’s must-haves and make you every look a inspo ✨💅",
@@ -836,7 +836,7 @@
           "cardItem": {
             "id": "1623103798982821",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=bfPRNE6kZKNTM6ZpJ44G%2FwmLDtY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=7na%2F18sQvZjSaLfegnuQdFrqcsw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#smartliving",
             "subTitle": "1.2B views",
             "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
@@ -929,7 +929,7 @@
           "cardItem": {
             "id": "1859875",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=%2ByGMP8GVfdFbDL4zxSAfKeYom5g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=OQ2q8ik8%2FAg%2B6qSxJ4COR5DY%2Fno%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#lovemyhome",
             "subTitle": "671.6M views",
             "description": "✨🏡 Transform your dream home space into a haven of comfort and style! From plush rugs 🧶 to cozy bedding 🛏️, and elegant cookware 🍳—share your favorite home essentials with #LoveMyHome and inspire others to elevate their homes! 🌟📸 Let's showcase the art of living well!",
@@ -967,7 +967,7 @@
           "cardItem": {
             "id": "7501020821364670486",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/2c577a971050f2bf8a866a6f2b1f94f6.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=d6iK8zSl%2BDbteHrYG4k0giei0W4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/2c577a971050f2bf8a866a6f2b1f94f6.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759622400&x-signature=xJtIWvJsdsRswRbmSjIKBB1E2GA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#phlurpeachskin",
             "subTitle": "6.4M views",
             "description": "Introducing Peach Skin Body Mist on TikTok Shop for Phlur's New Arrivals Campaign from May 19-25!",
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1084,7 +1084,7 @@
             "link": "/music/Triple-S-6872482756727670785",
             "extraInfo": {
               "musicId": "6872482756727670785",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/31612d82feab424686af9887c29332ab",
               "posts": 153700
             }
           }
@@ -1160,7 +1160,7 @@
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459500
             }
           }
@@ -1168,7 +1168,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
