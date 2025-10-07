@@ -9,7 +9,7 @@
     "recent_trends_24h": 89,
     "top_hashtags": [],
     "total_trends": 94,
-    "last_updated": "2025-10-07T06:13:38.384372"
+    "last_updated": "2025-10-07T06:30:35.271200"
   },
   "breakout_trends": {
     "1_hour": [],
@@ -23,7 +23,7 @@
         "title": "Freak (feat. REI AMI)",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -33,7 +33,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.630764",
-        "last_updated": "2025-10-07 06:13:38.382585",
+        "last_updated": "2025-10-07 06:30:35.269640",
         "raw_data": "{\"id\": \"6832302666593487621\", \"type\": 1, \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"cover\": \"https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/f9a5dfc829e442769f45154536791b93~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5\", \"title\": \"Freak (feat. REI AMI)\", \"subTitle\": \"1.1M videos\", \"description\": \"Sub Urban\", \"link\": \"/music/Freak-feat-REI-AMI-6832302666593487621\", \"extraInfo\": {\"musicId\": \"6832302666593487621\", \"playUrl\": \"https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/07b5b5dbc8854b559c2d251a262c2503\", \"posts\": 1100000}}"
       },
       {
@@ -41,7 +41,7 @@
         "title": "Low",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -51,15 +51,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.629093",
-        "last_updated": "2025-10-07 06:13:38.379889",
-        "raw_data": "{\"id\": \"6981354300996045569\", \"type\": 1, \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/5e0de8e85f202df0132fa71a8b68d9ab~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=6eb5ef27&x-expires=1759989600&x-signature=6r5HjeobVVtYzinT1bJfVIjvod4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"Low\", \"subTitle\": \"2.3M videos\", \"description\": \"m_a_r_i_a\", \"link\": \"/music/Low-6981354300996045569\", \"extraInfo\": {\"musicId\": \"6981354300996045569\", \"playUrl\": \"https://v16m.tiktokcdn-us.com/6c7fcc25ec6e1ce6a87bdce622ac375e/68e503f7/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/47ce10c5a52e4bf6a33e9062c96c92a8/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=212&bt=106&ds=5&ft=GSDrKInz7ThcsjyKXq8Zmo&mime_type=audio_mp4&qs=13&rc=M3VvcGk6ZnBmNjMzODU8M0BpM3VvcGk6ZnBmNjMzODU8M0BiYm9pcjRnLmVgLS1kMTRzYSNiYm9pcjRnLmVgLS1kMTRzcw%3D%3D&vvpl=1&l=20251007061331CA446FC0E76648192E3D&btag=e00070000&download=true\", \"posts\": 2300000}}"
+        "last_updated": "2025-10-07 06:30:35.266967",
+        "raw_data": "{\"id\": \"6981354300996045569\", \"type\": 1, \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/5e0de8e85f202df0132fa71a8b68d9ab~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=6eb5ef27&x-expires=1759989600&x-signature=6r5HjeobVVtYzinT1bJfVIjvod4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5\", \"title\": \"Low\", \"subTitle\": \"2.3M videos\", \"description\": \"m_a_r_i_a\", \"link\": \"/music/Low-6981354300996045569\", \"extraInfo\": {\"musicId\": \"6981354300996045569\", \"playUrl\": \"https://v16m.tiktokcdn-us.com/42e9af7d3b820edfc0075e2f887bf1ac/68e507f0/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/47ce10c5a52e4bf6a33e9062c96c92a8/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=212&bt=106&ds=5&ft=GSDrKInz7ThQ6NyKXq8Zmo&mime_type=audio_mp4&qs=13&rc=M3VvcGk6ZnBmNjMzODU8M0BpM3VvcGk6ZnBmNjMzODU8M0BiYm9pcjRnLmVgLS1kMTRzYSNiYm9pcjRnLmVgLS1kMTRzcw%3D%3D&vvpl=1&l=20251007063029150B85D384AA1F16ADFF&btag=e00070000&download=true\", \"posts\": 2300000}}"
       },
       {
         "id": "7117898117714758405",
         "title": "Said is mn Mattie",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -69,15 +69,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.626955",
-        "last_updated": "2025-10-07 06:13:38.377192",
-        "raw_data": "{\"id\": \"7117898117714758405\", \"type\": 1, \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/689ded6953dfa950e7fce172abdfeb32~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=588b568e&x-expires=1759989600&x-signature=RyLCrvK7Kbz5lL%2B1J5hXinbXt4M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"Said is mn Mattie\", \"subTitle\": \"6.8K videos\", \"description\": \"\\ud83c\\udfa5Movies\\ud83c\\udfa5\", \"link\": \"/music/Said-is-mn-Mattie-7117898117714758405\", \"extraInfo\": {\"musicId\": \"7117898117714758405\", \"playUrl\": \"https://v16m.tiktokcdn-us.com/6bff2614ba5c219ad09286f9b54a3472/68e503f6/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/2f2beb8acef34a3f9bc732bd6912c2b3/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=254&bt=127&ds=5&ft=GSDrKInz7ThcsjyKXq8Zmo&mime_type=audio_mp4&qs=13&rc=M3l1PDU6ZmV3ZTMzNzU8M0BpM3l1PDU6ZmV3ZTMzNzU8M0BlNmNfcjRnaTBgLS1kMTZzYSNlNmNfcjRnaTBgLS1kMTZzcw%3D%3D&vvpl=1&l=20251007061331CA446FC0E76648192E3D&btag=e00070000&download=true\", \"posts\": 6768}}"
+        "last_updated": "2025-10-07 06:30:35.264216",
+        "raw_data": "{\"id\": \"7117898117714758405\", \"type\": 1, \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/689ded6953dfa950e7fce172abdfeb32~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=588b568e&x-expires=1759989600&x-signature=RyLCrvK7Kbz5lL%2B1J5hXinbXt4M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"Said is mn Mattie\", \"subTitle\": \"6.8K videos\", \"description\": \"\\ud83c\\udfa5Movies\\ud83c\\udfa5\", \"link\": \"/music/Said-is-mn-Mattie-7117898117714758405\", \"extraInfo\": {\"musicId\": \"7117898117714758405\", \"playUrl\": \"https://v16m.tiktokcdn-us.com/b506686b4a103acfd2b0a7043ffd81a6/68e507ef/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/2f2beb8acef34a3f9bc732bd6912c2b3/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=254&bt=127&ds=5&ft=GSDrKInz7ThQ6NyKXq8Zmo&mime_type=audio_mp4&qs=13&rc=M3l1PDU6ZmV3ZTMzNzU8M0BpM3l1PDU6ZmV3ZTMzNzU8M0BlNmNfcjRnaTBgLS1kMTZzYSNlNmNfcjRnaTBgLS1kMTZzcw%3D%3D&vvpl=1&l=20251007063029150B85D384AA1F16ADFF&btag=e00070000&download=true\", \"posts\": 6768}}"
       },
       {
         "id": "7129970471625362182",
         "title": "maybe im in love",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -87,15 +87,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.625317",
-        "last_updated": "2025-10-07 06:13:38.374729",
-        "raw_data": "{\"id\": \"7129970471625362182\", \"type\": 1, \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/12441ada2951fb0501d2fe7cceafdf8d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=17204167&x-expires=1759989600&x-signature=FRBL58b1xSeqwmPYb6dHr1dGbWM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"maybe im in love\", \"subTitle\": \"139.1K videos\", \"description\": \"flo\", \"link\": \"/music/maybe-im-in-love-7129970471625362182\", \"extraInfo\": {\"musicId\": \"7129970471625362182\", \"playUrl\": \"https://v16m.tiktokcdn-us.com/23d6ea20ed592712249d9463665d277f/68e503f5/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/5fd6f6d5cab44d77b1ba075a58f70426/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=248&bt=124&ds=5&ft=GSDrKInz7ThcsjyKXq8Zmo&mime_type=audio_mp4&qs=13&rc=anBrNWk6ZnNlZTMzNzU8M0BpanBrNWk6ZnNlZTMzNzU8M0BscTNvcjQwcG1gLS1kMTZzYSNscTNvcjQwcG1gLS1kMTZzcw%3D%3D&vvpl=1&l=20251007061331CA446FC0E76648192E3D&btag=e00070000&download=true\", \"posts\": 139100}}"
+        "last_updated": "2025-10-07 06:30:35.261606",
+        "raw_data": "{\"id\": \"7129970471625362182\", \"type\": 1, \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/12441ada2951fb0501d2fe7cceafdf8d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=17204167&x-expires=1759989600&x-signature=FRBL58b1xSeqwmPYb6dHr1dGbWM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"maybe im in love\", \"subTitle\": \"139.1K videos\", \"description\": \"flo\", \"link\": \"/music/maybe-im-in-love-7129970471625362182\", \"extraInfo\": {\"musicId\": \"7129970471625362182\", \"playUrl\": \"https://v16m.tiktokcdn-us.com/d8ef3327b3963b68192457a4a80efe66/68e507ee/video/tos/useast5/tos-useast5-v-27dcd7c799-tx/5fd6f6d5cab44d77b1ba075a58f70426/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=248&bt=124&ds=5&ft=GSDrKInz7ThQ6NyKXq8Zmo&mime_type=audio_mp4&qs=13&rc=anBrNWk6ZnNlZTMzNzU8M0BpanBrNWk6ZnNlZTMzNzU8M0BscTNvcjQwcG1gLS1kMTZzYSNscTNvcjQwcG1gLS1kMTZzcw%3D%3D&vvpl=1&l=20251007063029150B85D384AA1F16ADFF&btag=e00070000&download=true\", \"posts\": 139100}}"
       },
       {
         "id": "229214",
         "title": "#SelfCare",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -105,7 +105,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.623708",
-        "last_updated": "2025-10-07 06:13:38.372145",
+        "last_updated": "2025-10-07 06:30:35.258946",
         "raw_data": "{\"id\": \"229214\", \"type\": 3, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/e8c4400a2347e74110bda3d892ce8ac2.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1759838400&x-signature=nAlCAl%2BcmBsL7WwYmxcz9ZZBqlc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#SelfCare\", \"subTitle\": \"134.1B views\", \"description\": \"Put #SelfCare first and show us how you prioritize yourself.\", \"link\": \"/tag/SelfCare\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 134100000000, \"challengeId\": \"229214\", \"challengeName\": \"SelfCare\"}}"
       },
       {
@@ -113,7 +113,7 @@
         "title": "#SmallBusiness",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -123,7 +123,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.621892",
-        "last_updated": "2025-10-07 06:13:38.369458",
+        "last_updated": "2025-10-07 06:30:35.256282",
         "raw_data": "{\"id\": \"31667995\", \"type\": 3, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/e4be8f984e723d1bf39a17a5805cde28.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759838400&x-signature=k3KaTCKrLrOBbVu3ZGdVgEPKjrY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#SmallBusiness\", \"subTitle\": \"215B views\", \"description\": \"Join the #SmallBusiness community\", \"link\": \"/tag/SmallBusiness\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 215000000000, \"challengeId\": \"31667995\", \"challengeName\": \"SmallBusiness\"}}"
       },
       {
@@ -131,7 +131,7 @@
         "title": "#WomenOfTikTok",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -141,15 +141,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.619830",
-        "last_updated": "2025-10-07 06:13:38.365563",
-        "raw_data": "{\"id\": \"1617497624883205\", \"type\": 3, \"cover\": \"https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/60af5e8be0635160ebf01958f4db15d0.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759838400&x-signature=SB9gJowqhvzMV8X%2F5tcTwGbuca8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#WomenOfTikTok\", \"subTitle\": \"29.4B views\", \"description\": \"We\\u2019re celebrating the power and strength of women on TikTok. Here\\u2019s to the #WomenOfTikTok! Raise your voice and share your story.\", \"link\": \"/tag/WomenOfTikTok\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 29400000000, \"challengeId\": \"1617497624883205\", \"challengeName\": \"WomenOfTikTok\"}}"
+        "last_updated": "2025-10-07 06:30:35.253566",
+        "raw_data": "{\"id\": \"1617497624883205\", \"type\": 3, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/60af5e8be0635160ebf01958f4db15d0.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759838400&x-signature=l4r4Xx1ZLk%2FojSSbV8OnuTbBPck%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#WomenOfTikTok\", \"subTitle\": \"29.4B views\", \"description\": \"We\\u2019re celebrating the power and strength of women on TikTok. Here\\u2019s to the #WomenOfTikTok! Raise your voice and share your story.\", \"link\": \"/tag/WomenOfTikTok\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 29400000000, \"challengeId\": \"1617497624883205\", \"challengeName\": \"WomenOfTikTok\"}}"
       },
       {
         "id": "1669321598438405",
         "title": "#lerenoptiktok",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -159,7 +159,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.617846",
-        "last_updated": "2025-10-07 06:13:38.363106",
+        "last_updated": "2025-10-07 06:30:35.250937",
         "raw_data": "{\"id\": \"1669321598438405\", \"type\": 3, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/b27804fd6114b199e865821a6e4d2f7c~tplv-tiktokx-origin.image?dr=9627&x-expires=1759838400&x-signature=rjE7sEVxHQX7Gq1LKAAZqqJ6czM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#lerenoptiktok\", \"subTitle\": \"1.9B views\", \"description\": \"\", \"link\": \"/tag/lerenoptiktok\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 1900000000, \"challengeId\": \"1669321598438405\", \"challengeName\": \"lerenoptiktok\"}}"
       },
       {
@@ -167,7 +167,7 @@
         "title": "#thelittlemermaid",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -177,7 +177,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.616209",
-        "last_updated": "2025-10-07 06:13:38.360341",
+        "last_updated": "2025-10-07 06:30:35.246931",
         "raw_data": "{\"id\": \"34486\", \"type\": 3, \"title\": \"#thelittlemermaid\", \"subTitle\": \"15.2B views\", \"description\": \"\", \"link\": \"/tag/thelittlemermaid\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 15200000000, \"challengeId\": \"34486\", \"challengeName\": \"thelittlemermaid\"}}"
       },
       {
@@ -185,7 +185,7 @@
         "title": "#festivals",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -195,7 +195,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.614430",
-        "last_updated": "2025-10-07 06:13:38.357780",
+        "last_updated": "2025-10-07 06:30:35.244266",
         "raw_data": "{\"id\": \"346236\", \"type\": 3, \"title\": \"#festivals\", \"subTitle\": \"4.5B views\", \"description\": \"\", \"link\": \"/tag/festivals\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 4500000000, \"challengeId\": \"346236\", \"challengeName\": \"festivals\"}}"
       },
       {
@@ -203,7 +203,7 @@
         "title": "#1min",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -213,7 +213,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.612474",
-        "last_updated": "2025-10-07 06:13:38.355125",
+        "last_updated": "2025-10-07 06:30:35.241802",
         "raw_data": "{\"id\": \"235463\", \"type\": 3, \"title\": \"#1min\", \"subTitle\": \"12.2B views\", \"description\": \"\", \"link\": \"/tag/1min\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 12200000000, \"challengeId\": \"235463\", \"challengeName\": \"1min\"}}"
       },
       {
@@ -221,7 +221,7 @@
         "title": "#longervideos",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -231,7 +231,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.610633",
-        "last_updated": "2025-10-07 06:13:38.352069",
+        "last_updated": "2025-10-07 06:30:35.239192",
         "raw_data": "{\"id\": \"1604297750222853\", \"type\": 3, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/009a66f069c7810ce536ac4c307c9f74.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759838400&x-signature=3oRUfnEqCO0RPx6LE1v7AycHKNA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#longervideos\", \"subTitle\": \"402.5B views\", \"description\": \"Try longer videos (videos longer than 1 minute)! Create longer videos to express yourself and share more of your story on TikTok\", \"link\": \"/tag/longervideos\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 402500000000, \"challengeId\": \"1604297750222853\", \"challengeName\": \"longervideos\"}}"
       },
       {
@@ -239,7 +239,7 @@
         "title": "#ForYourPride",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -249,7 +249,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.608778",
-        "last_updated": "2025-10-07 06:13:38.349369",
+        "last_updated": "2025-10-07 06:30:35.236532",
         "raw_data": "{\"id\": \"1637138684632070\", \"type\": 3, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/0eadbba151a4261a69107ae50f4f9580.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1759838400&x-signature=ucQygMG94EAkkh6AD1zUA6s5ZxM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#ForYourPride\", \"subTitle\": \"12.6B views\", \"description\": \"Thanks to all who participated in the #ForYourPride Post Contest! Check out the Winner Showcase here: https://vt.tiktok.com/ZMSkASghd/\", \"link\": \"/tag/ForYourPride\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 12600000000, \"challengeId\": \"1637138684632070\", \"challengeName\": \"ForYourPride\"}}"
       },
       {
@@ -257,7 +257,7 @@
         "title": "#youareincluded",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -267,7 +267,7 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.605579",
-        "last_updated": "2025-10-07 06:13:38.346843",
+        "last_updated": "2025-10-07 06:30:35.233816",
         "raw_data": "{\"id\": \"1680719640699905\", \"type\": 3, \"title\": \"#youareincluded\", \"subTitle\": \"88.5M views\", \"description\": \"\", \"link\": \"/tag/youareincluded\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 88500000, \"challengeId\": \"1680719640699905\", \"challengeName\": \"youareincluded\"}}"
       },
       {
@@ -275,7 +275,7 @@
         "title": "lexiearchive",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -285,15 +285,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.604019",
-        "last_updated": "2025-10-07 06:13:38.343944",
-        "raw_data": "{\"id\": \"6801947216615425029\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/10bb2e6da11250dc68460f972b322b31~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=a390f92f&x-expires=1759989600&x-signature=9z%2BrwK%2FDJyK8iffyEYxUAq9nuuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8\", \"title\": \"lexiearchive\", \"subTitle\": \"@lexiearchive\", \"description\": \"flash warning\", \"link\": \"/@lexiearchive\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": false, \"fans\": 60400, \"likes\": 1300000, \"userId\": \"6801947216615425029\", \"secUid\": \"MS4wLjABAAAAWUP9uR2I2tgqOV4JaoXelADunyhBmwdx0avUTRZ-qGSkx4g6eSHDDGa41t5LhR1a\", \"relation\": 0, \"video\": 7, \"following\": 1001, \"heart\": 1300000, \"digg\": 54600}}"
+        "last_updated": "2025-10-07 06:30:35.231248",
+        "raw_data": "{\"id\": \"6801947216615425029\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/10bb2e6da11250dc68460f972b322b31~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=a390f92f&x-expires=1759989600&x-signature=9z%2BrwK%2FDJyK8iffyEYxUAq9nuuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"lexiearchive\", \"subTitle\": \"@lexiearchive\", \"description\": \"flash warning\", \"link\": \"/@lexiearchive\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": false, \"fans\": 60400, \"likes\": 1300000, \"userId\": \"6801947216615425029\", \"secUid\": \"MS4wLjABAAAAWUP9uR2I2tgqOV4JaoXelADunyhBmwdx0avUTRZ-qGSkx4g6eSHDDGa41t5LhR1a\", \"relation\": 0, \"video\": 7, \"following\": 1001, \"heart\": 1300000, \"digg\": 54600}}"
       },
       {
         "id": "90985414055837696",
         "title": "Insanian",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -303,15 +303,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.602350",
-        "last_updated": "2025-10-07 06:13:38.341233",
-        "raw_data": "{\"id\": \"90985414055837696\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/1d4c0d2152dd78665a29141e40883490~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=197d5128&x-expires=1759989600&x-signature=QUQiHLxirigezy30sI3G5%2FR68jM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8\", \"title\": \"Insanian\", \"subTitle\": \"@insanian\", \"description\": \"1M!! \\ud83e\\udd29\\nInstagram Shorts kanaal\\ud83d\\udc47\\ud83c\\udffc\\u2728\\nNee Joh Gekkie! \\ud83e\\udd2a\", \"link\": \"/@insanian\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": false, \"fans\": 1000000, \"likes\": 51600000, \"userId\": \"90985414055837696\", \"secUid\": \"MS4wLjABAAAAxFPgGdKb0GQ13lGIOV-gSDbRq9Zrm2gXDXq9gpRy-yT1sXutWdohXo9GUKctwU73\", \"relation\": 0, \"video\": 1099, \"following\": 410, \"heart\": 51600000, \"digg\": 113300}}"
+        "last_updated": "2025-10-07 06:30:35.228370",
+        "raw_data": "{\"id\": \"90985414055837696\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/1d4c0d2152dd78665a29141e40883490~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=197d5128&x-expires=1759989600&x-signature=QUQiHLxirigezy30sI3G5%2FR68jM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"Insanian\", \"subTitle\": \"@insanian\", \"description\": \"1M!! \\ud83e\\udd29\\nInstagram Shorts kanaal\\ud83d\\udc47\\ud83c\\udffc\\u2728\\nNee Joh Gekkie! \\ud83e\\udd2a\", \"link\": \"/@insanian\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": false, \"fans\": 1000000, \"likes\": 51600000, \"userId\": \"90985414055837696\", \"secUid\": \"MS4wLjABAAAAxFPgGdKb0GQ13lGIOV-gSDbRq9Zrm2gXDXq9gpRy-yT1sXutWdohXo9GUKctwU73\", \"relation\": 0, \"video\": 1099, \"following\": 410, \"heart\": 51600000, \"digg\": 113300}}"
       },
       {
         "id": "13220684",
         "title": "🇳🇱 BEAU 🇳🇱",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -321,15 +321,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.600656",
-        "last_updated": "2025-10-07 06:13:38.338665",
-        "raw_data": "{\"id\": \"13220684\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/39bd7d69aa5154319394ce49580f6d5d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=068780b6&x-expires=1759989600&x-signature=z28GY%2Flu0%2FU6oGNLhZxhCwhcC0I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8\", \"title\": \"\\ud83c\\uddf3\\ud83c\\uddf1 BEAU \\ud83c\\uddf3\\ud83c\\uddf1\", \"subTitle\": \"@beaupotman_\", \"description\": \"\\ud83d\\udc9c Stay Positive \\ud83d\\udc9c\\n\\ud83c\\uddf3\\ud83c\\uddf1 Hollands Got Talent 2020 \\ud83c\\uddf3\\ud83c\\uddf1\\n\\u2728Info@beaupotman.nl\\u2728\", \"link\": \"/@beaupotman_\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": true, \"fans\": 923700, \"likes\": 102700000, \"userId\": \"13220684\", \"secUid\": \"MS4wLjABAAAADztO8zTVmGm4YCzRLqRqrwIf3oyexZVDTlJxbx2lgTw\", \"relation\": 0, \"video\": 3728, \"following\": 125, \"heart\": 102700000, \"digg\": 21700}}"
+        "last_updated": "2025-10-07 06:30:35.225723",
+        "raw_data": "{\"id\": \"13220684\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/39bd7d69aa5154319394ce49580f6d5d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=068780b6&x-expires=1759989600&x-signature=z28GY%2Flu0%2FU6oGNLhZxhCwhcC0I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"\\ud83c\\uddf3\\ud83c\\uddf1 BEAU \\ud83c\\uddf3\\ud83c\\uddf1\", \"subTitle\": \"@beaupotman_\", \"description\": \"\\ud83d\\udc9c Stay Positive \\ud83d\\udc9c\\n\\ud83c\\uddf3\\ud83c\\uddf1 Hollands Got Talent 2020 \\ud83c\\uddf3\\ud83c\\uddf1\\n\\u2728Info@beaupotman.nl\\u2728\", \"link\": \"/@beaupotman_\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": true, \"fans\": 923700, \"likes\": 102700000, \"userId\": \"13220684\", \"secUid\": \"MS4wLjABAAAADztO8zTVmGm4YCzRLqRqrwIf3oyexZVDTlJxbx2lgTw\", \"relation\": 0, \"video\": 3728, \"following\": 125, \"heart\": 102700000, \"digg\": 21700}}"
       },
       {
         "id": "98689426452578304",
         "title": "Pangiee 🐉",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -339,15 +339,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.592571",
-        "last_updated": "2025-10-07 06:13:38.336153",
-        "raw_data": "{\"id\": \"98689426452578304\", \"type\": 2, \"cover\": \"https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/8d20e32add80627de7dbcc0d43923646~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=55265d8e&x-expires=1759989600&x-signature=boZmKWVDv4lmxrWOy2%2Brzs%2FwLnM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8\", \"title\": \"Pangiee \\ud83d\\udc09\", \"subTitle\": \"@pangiee\", \"description\": \"idk just posting \\nIG: Airvatar\", \"link\": \"/@pangiee\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": false, \"fans\": 118600, \"likes\": 9800000, \"userId\": \"98689426452578304\", \"secUid\": \"MS4wLjABAAAAOV2HBLR1vg4BZO1ZR31v2MdXqnA4grVL5SVyhQhncjQIVv5Y3ScuvQwFqkZpsAoZ\", \"relation\": 0, \"video\": 761, \"following\": 101, \"heart\": 9800000, \"digg\": 8902}}"
+        "last_updated": "2025-10-07 06:30:35.223156",
+        "raw_data": "{\"id\": \"98689426452578304\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/8d20e32add80627de7dbcc0d43923646~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=3e1a213b&x-expires=1759989600&x-signature=Qk7eihLimtG0VcaNAMnYQLzaowE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"Pangiee \\ud83d\\udc09\", \"subTitle\": \"@pangiee\", \"description\": \"idk just posting \\nIG: Airvatar\", \"link\": \"/@pangiee\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": false, \"fans\": 118600, \"likes\": 9800000, \"userId\": \"98689426452578304\", \"secUid\": \"MS4wLjABAAAAOV2HBLR1vg4BZO1ZR31v2MdXqnA4grVL5SVyhQhncjQIVv5Y3ScuvQwFqkZpsAoZ\", \"relation\": 0, \"video\": 761, \"following\": 101, \"heart\": 9800000, \"digg\": 8902}}"
       },
       {
         "id": "19668891",
         "title": "Quinten Verschure",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -357,15 +357,15 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.591022",
-        "last_updated": "2025-10-07 06:13:38.333488",
-        "raw_data": "{\"id\": \"19668891\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/d07fb1bcf0c6f2181797e02a7334afc5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=522034a6&x-expires=1759989600&x-signature=IICNZuteya53WDXinLf%2Fv3HLND8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8\", \"title\": \"Quinten Verschure\", \"subTitle\": \"@quintenverschure\", \"description\": \"IG: @quintenverschure\\no.t. van CvdM \\ud83d\\ude0a\\n\\ud83d\\udce7 quinten@bombersandlemonade.com\", \"link\": \"/@quintenverschure\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": true, \"fans\": 765000, \"likes\": 46100000, \"userId\": \"19668891\", \"secUid\": \"MS4wLjABAAAA8Eley6K_xcorieXsDCDuxUxBnWxAF39BBgzloSOe4A4\", \"relation\": 0, \"video\": 2232, \"following\": 799, \"heart\": 46100000, \"digg\": 191500}}"
+        "last_updated": "2025-10-07 06:30:35.220487",
+        "raw_data": "{\"id\": \"19668891\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/d07fb1bcf0c6f2181797e02a7334afc5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=522034a6&x-expires=1759989600&x-signature=IICNZuteya53WDXinLf%2Fv3HLND8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"Quinten Verschure\", \"subTitle\": \"@quintenverschure\", \"description\": \"IG: @quintenverschure\\no.t. van CvdM \\ud83d\\ude0a\\n\\ud83d\\udce7 quinten@bombersandlemonade.com\", \"link\": \"/@quintenverschure\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": true, \"fans\": 765000, \"likes\": 46100000, \"userId\": \"19668891\", \"secUid\": \"MS4wLjABAAAA8Eley6K_xcorieXsDCDuxUxBnWxAF39BBgzloSOe4A4\", \"relation\": 0, \"video\": 2232, \"following\": 799, \"heart\": 46100000, \"digg\": 191500}}"
       },
       {
         "id": "6699375099206878213",
         "title": "AFC Ajax",
         "author": "",
         "description": "",
-        "timestamp": "2025-10-07T06:13:32.145345",
+        "timestamp": "2025-10-07T06:30:29.518906",
         "source": "discover_us",
         "view_count": 0,
         "like_count": 0,
@@ -375,8 +375,8 @@
         "virality_stage": "New",
         "growth_rate": 0.0,
         "first_seen": "2025-08-06 09:38:57.589313",
-        "last_updated": "2025-10-07 06:13:38.330838",
-        "raw_data": "{\"id\": \"6699375099206878213\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/281a7bc7e0e2bea2ab59685cc9dfbfa4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=4591dd7b&x-expires=1759989600&x-signature=ipZGBSPXaKB3wzuextKnL5%2F1FdY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast8\", \"title\": \"AFC Ajax\", \"subTitle\": \"@afcajax\", \"description\": \"Official TikTok account of AFC Ajax\", \"link\": \"/@afcajax\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": true, \"fans\": 10100000, \"likes\": 281400000, \"userId\": \"6699375099206878213\", \"secUid\": \"MS4wLjABAAAADz6_GILPwE7DzXIYMBSZL5FW5wvIZJ43obyXzxYjSRdiXNbX9fKMGwj8B3rnYGGN\", \"relation\": 0, \"video\": 2847, \"following\": 12, \"heart\": 281400000, \"digg\": 301}}"
+        "last_updated": "2025-10-07 06:30:35.217673",
+        "raw_data": "{\"id\": \"6699375099206878213\", \"type\": 2, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/281a7bc7e0e2bea2ab59685cc9dfbfa4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=4591dd7b&x-expires=1759989600&x-signature=ipZGBSPXaKB3wzuextKnL5%2F1FdY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5\", \"title\": \"AFC Ajax\", \"subTitle\": \"@afcajax\", \"description\": \"Official TikTok account of AFC Ajax\", \"link\": \"/@afcajax\", \"round\": true, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"verified\": true, \"fans\": 10100000, \"likes\": 281400000, \"userId\": \"6699375099206878213\", \"secUid\": \"MS4wLjABAAAADz6_GILPwE7DzXIYMBSZL5FW5wvIZJ43obyXzxYjSRdiXNbX9fKMGwj8B3rnYGGN\", \"relation\": 0, \"video\": 2848, \"following\": 12, \"heart\": 281400000, \"digg\": 301}}"
       }
     ],
     "early_traction": [],
@@ -426,5 +426,5 @@
     "medium_priority": [],
     "low_priority": []
   },
-  "generated_at": "2025-10-07T06:13:38.386165"
+  "generated_at": "2025-10-07T06:30:35.273055"
 }
