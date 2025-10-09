@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1149,7 +1149,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
