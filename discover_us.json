@@ -475,7 +475,7 @@
           "cardItem": {
             "id": "7084315756325782570",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=e07ef7d6&x-expires=1760511600&x-signature=fRbWP4EHv%2BKeKpidA4gLFWnxkL8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310670543802335274~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=2f6ece09&x-expires=1760511600&x-signature=%2FVLmrQtY4wM1q95vHq6ohT2VUtY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Cooking With Marshmello",
             "subTitle": "@cookingwithmarshmello",
             "description": "Full-Time Chef, Part-Time DJ @Marshmello \nMello cookbook 👇",
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/7c57e3416a14dba20ea5c1bec66c740f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=7b4774fc&x-expires=1760511600&x-signature=NEY%2Fu1yPJjpv2%2FA9FhBrHzDyxPk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/7c57e3416a14dba20ea5c1bec66c740f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=7b4774fc&x-expires=1760511600&x-signature=NEY%2Fu1yPJjpv2%2FA9FhBrHzDyxPk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "Kiss of the Spider Woman NOW PLAYING in theaters\n💫 UP ALL NIGHT Live In Las Vegas Begins 12/30 🌟",
@@ -709,7 +709,7 @@
           "cardItem": {
             "id": "159398380291555328",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e065bd760fb46e0afeda1870fed11d80~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=c754ad60&x-expires=1760511600&x-signature=n%2FsXCCgbk7WRGsKdU2UxiDuMv0w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e065bd760fb46e0afeda1870fed11d80~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=c754ad60&x-expires=1760511600&x-signature=n%2FsXCCgbk7WRGsKdU2UxiDuMv0w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Bruno Mars",
             "subTitle": "@brunomars",
             "description": "",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=c1787e32&x-expires=1760511600&x-signature=c9LgHrhQZAPXzDPjY80VvKOSwvY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/87af89d91db92fdcafce6bab86d41f00~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=c1787e32&x-expires=1760511600&x-signature=c9LgHrhQZAPXzDPjY80VvKOSwvY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=b59d6b55&idc=useast5",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1084,7 +1084,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 864100
             }
           }
@@ -1103,7 +1103,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 216900
             }
           }
@@ -1141,7 +1141,7 @@
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459500
             }
           }
@@ -1149,7 +1149,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
