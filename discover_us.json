@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -855,7 +855,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760353200&x-signature=8OqyZT3KlhKA35LNBQFCOKHDWNc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760353200&x-signature=fm7SWVqQKCq5uJpMtcWwrcYAAxE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "138M views",
             "description": "",
@@ -892,7 +892,7 @@
           "cardItem": {
             "id": "1670509115547649",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760353200&x-signature=LFmP5%2FgFBL8l%2BanJBoT1fdP7c4Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760353200&x-signature=8txdoBuGvW33LGkKT78vR1CH5Hk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#SuperBrandDay",
             "subTitle": "7.4B views",
             "description": "Celebrate Super Brand Day on TikTok Shop!\n\nDiscover the biggest brands and their best deals of the year—exclusively on TikTok Shop.",
@@ -931,14 +931,14 @@
             "type": 3,
             "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1760353200&x-signature=SNjwY6yIB7slClnd4Rc4BJscnEA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#lovemyhome",
-            "subTitle": "708M views",
+            "subTitle": "708.1M views",
             "description": "✨🏡 Transform your dream home space into a haven of comfort and style! From plush rugs 🧶 to cozy bedding 🛏️, and elegant cookware 🍳—share your favorite home essentials with #LoveMyHome and inspire others to elevate their homes! 🌟📸 Let's showcase the art of living well!",
             "link": "/tag/lovemyhome",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 708000000,
+              "views": 708100000,
               "challengeId": "1859875",
               "challengeName": "lovemyhome"
             }
@@ -948,7 +948,7 @@
           "cardItem": {
             "id": "7300310793566814250",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/2aa644a9496da9ec73207ae80d412f4f.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760353200&x-signature=IvBkGyIJ2UdzMVSWRtW3rUp6mv4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/2aa644a9496da9ec73207ae80d412f4f.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760353200&x-signature=h7xAeghcgQVXrUHMwyBmVkWEQ7A%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#beachwavertok",
             "subTitle": "70.7M views",
             "description": "Beachwaver’s Super Brand Day is here from May 20–26, and you don't want to miss it!\n\nFrom their viral curling irons to dreamy body butters and fragrances, Beachwaver is offering up to 70% OFF for one week only on TikTok Shop — their biggest sale yet!",
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1027,7 +1027,7 @@
             "link": "/music/Quinceañera-5000000001008467945",
             "extraInfo": {
               "musicId": "5000000001008467945",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
               "posts": 71700
             }
           }
@@ -1046,7 +1046,7 @@
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
               "posts": 228400
             }
           }
@@ -1058,7 +1058,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/ogsDAI8EvEUVdEPiAsd7AYrpAWiBASAB8Zgnb~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/ogsDAI8EvEUVdEPiAsd7AYrpAWiBASAB8Zgnb~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "The Assignment",
             "subTitle": "486.1K videos",
             "description": "Tay Money",
@@ -1134,7 +1134,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "真夜中のドア〜stay with me",
             "subTitle": "459.5K videos",
             "description": "松原みき",
@@ -1149,7 +1149,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
