@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -818,7 +818,7 @@
           "cardItem": {
             "id": "7149057085190193198",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1760799600&x-signature=V7fYw%2FmMit6WO4NCUxe8i8erYLc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1760799600&x-signature=vK1ep%2B%2FNFpA0AQjKWiODjfKIBSQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#fallfreshness",
             "subTitle": "3.4B views",
             "description": "Define your looks and drop it with #FallFreshness! 🍂 From cozy knits to city-ready layers, discover autumn’s must-haves and make you every look a inspo ✨💅",
@@ -855,7 +855,7 @@
           "cardItem": {
             "id": "1623103798982821",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760799600&x-signature=CtQDfY7xUeMCj8TgKmM%2F364WDa0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760799600&x-signature=HWFWGaPVahDFvjkTDrDy5qzx4oY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#smartliving",
             "subTitle": "1.3B views",
             "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
@@ -874,7 +874,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760799600&x-signature=6a8ESo4Hr1%2Bl1sZM5%2BEssqurt8w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1760799600&x-signature=OSij7xfrB8tcX%2Ft9nyUWc7uOK7Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "141.2M views",
             "description": "",
@@ -950,14 +950,14 @@
             "type": 3,
             "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/1a6ded042e1afcbdf9a9e4f8a6af8dfe.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1760799600&x-signature=tFtE%2FFQD8P3jd1CcZysFs04qbtE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#lovemyhome",
-            "subTitle": "732.4M views",
+            "subTitle": "732.5M views",
             "description": "✨🏡 Transform your dream home space into a haven of comfort and style! From plush rugs 🧶 to cozy bedding 🛏️, and elegant cookware 🍳—share your favorite home essentials with #LoveMyHome and inspire others to elevate their homes! 🌟📸 Let's showcase the art of living well!",
             "link": "/tag/lovemyhome",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 732400000,
+              "views": 732500000,
               "challengeId": "1859875",
               "challengeName": "lovemyhome"
             }
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1008,7 +1008,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -1027,7 +1027,7 @@
             "link": "/music/Quinceañera-5000000001008467945",
             "extraInfo": {
               "musicId": "5000000001008467945",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
               "posts": 71900
             }
           }
@@ -1084,7 +1084,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 863600
             }
           }
@@ -1115,7 +1115,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Holly Jolly Christmas",
             "subTitle": "97.7K videos",
             "description": "Michael Bublé",
@@ -1141,7 +1141,7 @@
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459400
             }
           }
@@ -1149,7 +1149,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
