@@ -786,7 +786,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -874,7 +874,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761253200&x-signature=Q%2BYYJ8mVaTsEFm6eiPeQukD1XrM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/84fae721c8f2aaf019f7326f46328275.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761253200&x-signature=9ITOJvIwOSwqOB3EbJqg%2Buusqq4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "144.3M views",
             "description": "",
@@ -911,7 +911,7 @@
           "cardItem": {
             "id": "1670509115547649",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761253200&x-signature=9iimgJO2Dy8fpNUw3x4IUfIr3aQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761253200&x-signature=ic%2FQEzL1ZPg0j%2BmouDju%2BXArOso%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#SuperBrandDay",
             "subTitle": "7.5B views",
             "description": "Celebrate Super Brand Day on TikTok Shop!\n\nDiscover the biggest brands and their best deals of the year—exclusively on TikTok Shop.",
@@ -967,7 +967,7 @@
           "cardItem": {
             "id": "7300310793566814250",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/2aa644a9496da9ec73207ae80d412f4f.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761253200&x-signature=J1h4apxQelG6riQHLq4Exq5tuow%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/2aa644a9496da9ec73207ae80d412f4f.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761253200&x-signature=mG%2Bi2DVzkQuG3bTaDDb9ECtD5kM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#beachwavertok",
             "subTitle": "70.8M views",
             "description": "Beachwaver’s Super Brand Day is here from May 20–26, and you don't want to miss it!\n\nFrom their viral curling irons to dreamy body butters and fragrances, Beachwaver is offering up to 70% OFF for one week only on TikTok Shop — their biggest sale yet!",
@@ -985,7 +985,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -1008,7 +1008,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -1046,7 +1046,7 @@
             "link": "/music/Hasta-la-Raíz-222453230176251905",
             "extraInfo": {
               "musicId": "222453230176251905",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
               "posts": 228100
             }
           }
@@ -1084,7 +1084,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 863000
             }
           }
@@ -1103,7 +1103,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 216900
             }
           }
@@ -1115,7 +1115,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Holly Jolly Christmas",
             "subTitle": "97.8K videos",
             "description": "Michael Bublé",
@@ -1149,7 +1149,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
