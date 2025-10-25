@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -37,7 +37,7 @@
           "cardItem": {
             "id": "7149057085190193198",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1761433200&x-signature=wZY9mZVtHc3i%2FFbUZgjqn2fUrnA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1761433200&x-signature=FCxq5SOQtItul9vjPo2yiyGOXLw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#fallfreshness",
             "subTitle": "3.6B views",
             "description": "Define your looks and drop it with #FallFreshness! 🍂 From cozy knits to city-ready layers, discover autumn’s must-haves and make you every look a inspo ✨💅",
@@ -74,7 +74,7 @@
           "cardItem": {
             "id": "1623103798982821",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761433200&x-signature=hF8qxPTDndRsCcIcu4WOia%2Bz8fQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1761433200&x-signature=Vu12%2FT3obMqNNL4kVtO9Ol5DeJk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#smartliving",
             "subTitle": "1.4B views",
             "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
@@ -204,7 +204,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -360,7 +360,7 @@
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459300
             }
           }
@@ -368,7 +368,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
