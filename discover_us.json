@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -112,7 +112,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/fee041e0cd6ba9f865b562487b620970.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1762891200&x-signature=DeE5QKu%2FGrny4FRzCW75igvzU9g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/fee041e0cd6ba9f865b562487b620970.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1762891200&x-signature=jgUbAcVf8oXZLW4UbhwHnLRzRv0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "155.3M views",
             "description": "",
@@ -204,7 +204,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -227,7 +227,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -239,7 +239,7 @@
             "round": false,
             "playToken": "",
             "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/78ab24605f01407ca5a657502d22d021~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "cover": "https://p19-common.tiktokcdn-us.com/tos-alisg-v-2774/78ab24605f01407ca5a657502d22d021~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "Quinceañera",
             "subTitle": "73.1K videos",
             "description": "Banda Machos",
@@ -368,7 +368,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
