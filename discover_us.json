@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -204,7 +204,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -303,7 +303,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 860600
             }
           }
@@ -368,7 +368,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
