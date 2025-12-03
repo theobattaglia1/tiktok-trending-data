@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -19,14 +19,14 @@
             "id": "7224085352925888513",
             "type": 3,
             "title": "#football ",
-            "subTitle": "33K views",
+            "subTitle": "33.1K views",
             "description": "",
             "link": "/tag/football%20",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 33000,
+              "views": 33100,
               "challengeId": "7224085352925888513",
               "challengeName": "football "
             }
@@ -203,7 +203,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -226,7 +226,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -340,7 +340,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 100000
             }
           }
@@ -367,7 +367,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
