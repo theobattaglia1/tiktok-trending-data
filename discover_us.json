@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -38,14 +38,14 @@
             "type": 3,
             "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/f124f598c19b8b7931e6f4837c4982e2.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1764867600&x-signature=MoVHUza7gLCDkBPmMbDbT3OjNew%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#toppicks",
-            "subTitle": "379.9M views",
+            "subTitle": "380M views",
             "description": "Good quality at good prices🌟\nAll creator-tested, shopper-approved, you’ll actually love.",
             "link": "/tag/toppicks",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 379900000,
+              "views": 380000000,
               "challengeId": "475808",
               "challengeName": "toppicks"
             }
@@ -203,7 +203,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -321,7 +321,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 216600
             }
           }
@@ -367,7 +367,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
