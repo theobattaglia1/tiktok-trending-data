@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -19,14 +19,14 @@
             "id": "88833896",
             "type": 3,
             "title": "#tiktokcampaign",
-            "subTitle": "215.6M views",
+            "subTitle": "215.7M views",
             "description": "",
             "link": "/tag/tiktokcampaign",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 215600000,
+              "views": 215700000,
               "challengeId": "88833896",
               "challengeName": "tiktokcampaign"
             }
@@ -167,7 +167,7 @@
           "cardItem": {
             "id": "1670509115547649",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1764882000&x-signature=tELUREyyRwkctnkKgJ1WIPpLZs8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/5c3507333fafc2398a59937dca756e38.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1764882000&x-signature=7BEnxDk0WSrsL5JAX58Y68IJ6Jc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#SuperBrandDay",
             "subTitle": "8.1B views",
             "description": "Celebrate Super Brand Day on TikTok Shop!\n\nDiscover the biggest brands and their best deals of the year—exclusively on TikTok Shop.",
@@ -203,7 +203,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -340,7 +340,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 100600
             }
           }
@@ -367,7 +367,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "linux",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
