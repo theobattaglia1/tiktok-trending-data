@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -203,7 +203,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -226,7 +226,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -367,7 +367,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
