@@ -74,7 +74,7 @@
           "cardItem": {
             "id": "7149057085190193198",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1765468800&x-signature=p6g19QPWsMHSpesoDp%2BeF3fL3kY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1765468800&x-signature=fa2VBWtTNOBdtio%2BwpBcJpcRZqI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#fallfreshness",
             "subTitle": "4.3B views",
             "description": "Define your looks and drop it with #FallFreshness! 🍂 From cozy knits to city-ready layers, discover autumn’s must-haves and make you every look a inspo ✨💅",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "1623103798982821",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1765468800&x-signature=6Bp1Ta2IR4GHNKcORon5msSEyJw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1765468800&x-signature=oA3LLcQyFN4k4D7i90x%2Buhble8Y%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#smartliving",
             "subTitle": "1.5B views",
             "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
@@ -214,6 +214,25 @@
       "exploreList": [
         {
           "cardItem": {
+            "id": "6740248251825391617",
+            "type": 1,
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o8yiAEohEAkLAsdWEYAUpABIAsfDFotauwlzIh~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "title": "Forever",
+            "subTitle": "3.2M videos",
+            "description": "Labrinth",
+            "link": "/music/Forever-6740248251825391617",
+            "extraInfo": {
+              "musicId": "6740248251825391617",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "posts": 3200000
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "222453230176251905",
             "type": 1,
             "round": false,
@@ -245,7 +264,7 @@
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
               "posts": 480300
             }
           }
@@ -264,7 +283,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 858800
             }
           }
@@ -283,7 +302,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 216600
             }
           }
@@ -302,7 +321,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 102900
             }
           }
