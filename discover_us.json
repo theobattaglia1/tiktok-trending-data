@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -19,14 +19,14 @@
             "id": "88833896",
             "type": 3,
             "title": "#tiktokcampaign",
-            "subTitle": "288.7M views",
+            "subTitle": "288.8M views",
             "description": "",
             "link": "/tag/tiktokcampaign",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 288700000,
+              "views": 288800000,
               "challengeId": "88833896",
               "challengeName": "tiktokcampaign"
             }
@@ -203,7 +203,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -226,7 +226,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -245,7 +245,7 @@
             "link": "/music/Quinceañera-5000000001008467945",
             "extraInfo": {
               "musicId": "5000000001008467945",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
               "posts": 74800
             }
           }
@@ -302,7 +302,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 858600
             }
           }
@@ -321,7 +321,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 216600
             }
           }
@@ -340,7 +340,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 103500
             }
           }
@@ -367,7 +367,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
