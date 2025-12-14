@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -36,7 +36,7 @@
           "cardItem": {
             "id": "475808",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/f124f598c19b8b7931e6f4837c4982e2.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1765728000&x-signature=94hYEdLVZsJL9eXNmU3IZXvv%2FhY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/f124f598c19b8b7931e6f4837c4982e2.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1765728000&x-signature=VG9sXjAp0dsu9Zklx9hoR5bdJso%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#toppicks",
             "subTitle": "391.7M views",
             "description": "Good quality at good prices🌟\nAll creator-tested, shopper-approved, you’ll actually love.",
@@ -111,7 +111,7 @@
           "cardItem": {
             "id": "1623103798982821",
             "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1765728000&x-signature=aBo2de0gYwsYpdcqY7o6ycPWJ8c%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1765728000&x-signature=YHEPLU254M3icSEytZNRZrTTXQU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#smartliving",
             "subTitle": "1.5B views",
             "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
@@ -130,7 +130,7 @@
           "cardItem": {
             "id": "7057267904445841413",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/fee041e0cd6ba9f865b562487b620970.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1765728000&x-signature=fOqRwNMfJE8rtT%2FJMdUyb5nbYoo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/fee041e0cd6ba9f865b562487b620970.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1765728000&x-signature=EDY8%2B%2BeSCPb7bMmGd6fz4jh61c8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#globalpick",
             "subTitle": "169.8M views",
             "description": "",
@@ -203,7 +203,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -226,7 +226,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -245,7 +245,7 @@
             "link": "/music/Quinceañera-5000000001008467945",
             "extraInfo": {
               "musicId": "5000000001008467945",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
               "posts": 74900
             }
           }
@@ -302,7 +302,7 @@
             "link": "/music/drivers-license-6914711053674760193",
             "extraInfo": {
               "musicId": "6914711053674760193",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oQjQefwHgkAagjaCxRfM8Dszx3FW7nPAVNaMwg",
               "posts": 858500
             }
           }
@@ -340,7 +340,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 103900
             }
           }
@@ -367,7 +367,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "linux",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
