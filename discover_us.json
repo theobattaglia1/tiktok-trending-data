@@ -19,14 +19,14 @@
             "id": "7569296611756245048",
             "type": 3,
             "title": "#sportscommentarytiktokcontest",
-            "subTitle": "95.1M views",
+            "subTitle": "95.2M views",
             "description": "",
             "link": "/tag/sportscommentarytiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 95100000,
+              "views": 95200000,
               "challengeId": "7569296611756245048",
               "challengeName": "sportscommentarytiktokcontest"
             }
@@ -37,14 +37,14 @@
             "id": "7577453835539447820",
             "type": 3,
             "title": "#soccertiktokcontest",
-            "subTitle": "113.9K views",
+            "subTitle": "114.3K views",
             "description": "",
             "link": "/tag/soccertiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 113900,
+              "views": 114300,
               "challengeId": "7577453835539447820",
               "challengeName": "soccertiktokcontest"
             }
@@ -55,14 +55,14 @@
             "id": "7577436099627188235",
             "type": 3,
             "title": "#tennistiktokcontest",
-            "subTitle": "774.9K views",
+            "subTitle": "776.4K views",
             "description": "",
             "link": "/tag/tennistiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 774900,
+              "views": 776400,
               "challengeId": "7577436099627188235",
               "challengeName": "tennistiktokcontest"
             }
@@ -242,27 +242,8 @@
             "link": "/music/Quinceañera-5000000001008467945",
             "extraInfo": {
               "musicId": "5000000001008467945",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
               "posts": 75000
-            }
-          }
-        },
-        {
-          "cardItem": {
-            "id": "222453230176251905",
-            "type": 1,
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/d33ece898368470bbcc14c8e2220f5a4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
-            "title": "Hasta la Raíz",
-            "subTitle": "228.4K videos",
-            "description": "Natalia Lafourcade",
-            "link": "/music/Hasta-la-Raíz-222453230176251905",
-            "extraInfo": {
-              "musicId": "222453230176251905",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/6136a745a84544b18680c096d6be8de0",
-              "posts": 228400
             }
           }
         },
@@ -318,7 +299,7 @@
             "link": "/music/Afterglow-6907566405198841857",
             "extraInfo": {
               "musicId": "6907566405198841857",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/e167d044a16d40a5a61cb2ff86e6c6ce",
               "posts": 216500
             }
           }
