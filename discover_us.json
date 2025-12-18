@@ -91,14 +91,14 @@
             "id": "88833896",
             "type": 3,
             "title": "#tiktokcampaign",
-            "subTitle": "355.4M views",
+            "subTitle": "355.5M views",
             "description": "",
             "link": "/tag/tiktokcampaign",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 355400000,
+              "views": 355500000,
               "challengeId": "88833896",
               "challengeName": "tiktokcampaign"
             }
@@ -126,7 +126,7 @@
           "cardItem": {
             "id": "475808",
             "type": 3,
-            "cover": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/f124f598c19b8b7931e6f4837c4982e2.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1766106000&x-signature=V8lgFRLawYgI9SIY%2BifE6p01YOE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+            "cover": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/f124f598c19b8b7931e6f4837c4982e2.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1766106000&x-signature=lS6GREI91pUp%2BK17bMSC0wkR4aQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#toppicks",
             "subTitle": "395.9M views",
             "description": "Good quality at good prices🌟\nAll creator-tested, shopper-approved, you’ll actually love.",
@@ -337,7 +337,7 @@
             "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
             "extraInfo": {
               "musicId": "6753170536311818242",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
               "posts": 105500
             }
           }
