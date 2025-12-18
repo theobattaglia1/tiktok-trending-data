@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -37,14 +37,14 @@
             "id": "7577453835539447820",
             "type": 3,
             "title": "#soccertiktokcontest",
-            "subTitle": "768.6K views",
+            "subTitle": "775.3K views",
             "description": "",
             "link": "/tag/soccertiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 768600,
+              "views": 775300,
               "challengeId": "7577453835539447820",
               "challengeName": "soccertiktokcontest"
             }
@@ -55,14 +55,14 @@
             "id": "7577436099627188235",
             "type": 3,
             "title": "#tennistiktokcontest",
-            "subTitle": "988.9K views",
+            "subTitle": "989.7K views",
             "description": "",
             "link": "/tag/tennistiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 988900,
+              "views": 989700,
               "challengeId": "7577436099627188235",
               "challengeName": "tennistiktokcontest"
             }
@@ -200,7 +200,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -325,6 +325,25 @@
         },
         {
           "cardItem": {
+            "id": "6753170536311818242",
+            "type": 1,
+            "round": false,
+            "playToken": "",
+            "keyToken": "",
+            "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/35467ed0648143179b29ab41275f0c6f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
+            "title": "Holly Jolly Christmas",
+            "subTitle": "105.4K videos",
+            "description": "Michael Bublé",
+            "link": "/music/Holly-Jolly-Christmas-6753170536311818242",
+            "extraInfo": {
+              "musicId": "6753170536311818242",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/64fa766832274eb386fe860ae4170db3",
+              "posts": 105400
+            }
+          }
+        },
+        {
+          "cardItem": {
             "id": "6878744350931634950",
             "type": 1,
             "round": false,
@@ -332,20 +351,20 @@
             "keyToken": "",
             "cover": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/ogPnBf0aWitoE7ZvAA0wiAi6EYsTBAUQAAVAOz~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=b59d6b55&idc=useast5",
             "title": "真夜中のドア〜stay with me",
-            "subTitle": "459.2K videos",
+            "subTitle": "459.1K videos",
             "description": "Miki Matsubara",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 459200
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "posts": 459100
             }
           }
         }
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
