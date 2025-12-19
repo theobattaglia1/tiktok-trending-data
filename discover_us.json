@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -91,14 +91,14 @@
             "id": "88833896",
             "type": 3,
             "title": "#tiktokcampaign",
-            "subTitle": "362.3M views",
+            "subTitle": "362.4M views",
             "description": "",
             "link": "/tag/tiktokcampaign",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 362300000,
+              "views": 362400000,
               "challengeId": "88833896",
               "challengeName": "tiktokcampaign"
             }
@@ -200,7 +200,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -356,7 +356,7 @@
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
               "posts": 459200
             }
           }
@@ -364,7 +364,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
