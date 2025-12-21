@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -19,14 +19,14 @@
             "id": "7569296611756245048",
             "type": 3,
             "title": "#sportscommentarytiktokcontest",
-            "subTitle": "104.7M views",
+            "subTitle": "104.8M views",
             "description": "",
             "link": "/tag/sportscommentarytiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 104700000,
+              "views": 104800000,
               "challengeId": "7569296611756245048",
               "challengeName": "sportscommentarytiktokcontest"
             }
@@ -109,14 +109,14 @@
             "id": "7560778181813207054",
             "type": 3,
             "title": "#sportsskillstiktokcontest",
-            "subTitle": "37.4M views",
+            "subTitle": "37.5M views",
             "description": "",
             "link": "/tag/sportsskillstiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 37400000,
+              "views": 37500000,
               "challengeId": "7560778181813207054",
               "challengeName": "sportsskillstiktokcontest"
             }
@@ -147,14 +147,14 @@
             "type": 3,
             "cover": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/54d7da4a523cee66d3439b09d39113e6.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1766350800&x-signature=GwBvClpV9s3TT5TthcWzCDTNe8o%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
             "title": "#warmupfortheholidays",
-            "subTitle": "80.2M views",
+            "subTitle": "80.3M views",
             "description": "",
             "link": "/tag/warmupfortheholidays",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 80200000,
+              "views": 80300000,
               "challengeId": "7389289358844493855",
               "challengeName": "warmupfortheholidays"
             }
@@ -200,7 +200,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -242,7 +242,7 @@
             "link": "/music/Quinceañera-5000000001008467945",
             "extraInfo": {
               "musicId": "5000000001008467945",
-              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
+              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/9ad29db610e84eff88a3fc42db241c80",
               "posts": 75200
             }
           }
@@ -280,7 +280,7 @@
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
               "posts": 479300
             }
           }
@@ -364,7 +364,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "windows",
+        "os": "mac",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
