@@ -5,7 +5,7 @@
       "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -91,14 +91,14 @@
             "id": "88833896",
             "type": 3,
             "title": "#tiktokcampaign",
-            "subTitle": "406.9M views",
+            "subTitle": "407.1M views",
             "description": "",
             "link": "/tag/tiktokcampaign",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 406900000,
+              "views": 407100000,
               "challengeId": "88833896",
               "challengeName": "tiktokcampaign"
             }
@@ -109,14 +109,14 @@
             "id": "7560778181813207054",
             "type": 3,
             "title": "#sportsskillstiktokcontest",
-            "subTitle": "41.7M views",
+            "subTitle": "41.8M views",
             "description": "",
             "link": "/tag/sportsskillstiktokcontest",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 41700000,
+              "views": 41800000,
               "challengeId": "7560778181813207054",
               "challengeName": "sportsskillstiktokcontest"
             }
@@ -200,7 +200,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
@@ -223,7 +223,7 @@
             "link": "/music/Forever-6740248251825391617",
             "extraInfo": {
               "musicId": "6740248251825391617",
-              "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
+              "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/5064f52a3d8f4efcae356cfb758c25d7",
               "posts": 3200000
             }
           }
@@ -364,7 +364,7 @@
       ],
       "pageState": {
         "regionAppId": 1233,
-        "os": "mac",
+        "os": "windows",
         "region": "US",
         "baseURL": "m.tiktok.com",
         "appType": "m",
