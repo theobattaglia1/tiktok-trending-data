@@ -13,27 +13,7 @@
       }
     },
     {
-      "exploreList": [
-        {
-          "cardItem": {
-            "id": "1623103798982821",
-            "type": 3,
-            "cover": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1769418000&x-signature=FEjPNt3Fm%2FNALCoRCOjb66RN9aM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
-            "title": "#smartliving",
-            "subTitle": "1.7B views",
-            "description": "With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating",
-            "link": "/tag/smartliving",
-            "round": false,
-            "playToken": "",
-            "keyToken": "",
-            "extraInfo": {
-              "views": 1700000000,
-              "challengeId": "1623103798982821",
-              "challengeName": "smartliving"
-            }
-          }
-        }
-      ],
+      "exploreList": [],
       "pageState": {
         "regionAppId": 1233,
         "os": "mac",
