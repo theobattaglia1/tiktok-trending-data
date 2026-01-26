@@ -6,10 +6,10 @@
       "Steady": 1,
       "Massive": 1
     },
-    "recent_trends_24h": 10,
+    "recent_trends_24h": 1,
     "top_hashtags": [],
     "total_trends": 147,
-    "last_updated": "2025-12-27T15:24:33.847865"
+    "last_updated": "2026-01-26T03:24:24.984367"
   },
   "breakout_trends": {
     "1_hour": [],
@@ -18,6 +18,24 @@
   },
   "trends_by_stage": {
     "new": [
+      {
+        "id": "1623103798982821",
+        "title": "#smartliving",
+        "author": "",
+        "description": "",
+        "timestamp": "2026-01-26T03:24:15.883085",
+        "source": "discover_us",
+        "view_count": 0,
+        "like_count": 0,
+        "share_count": 0,
+        "comment_count": 0,
+        "music_id": null,
+        "virality_stage": "New",
+        "growth_rate": 0.0,
+        "first_seen": "2025-08-06 03:01:18.515715",
+        "last_updated": "2026-01-26 03:24:24.978413",
+        "raw_data": "{\"id\": \"1623103798982821\", \"type\": 3, \"cover\": \"https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/d78274236b91f1ba511686083f8f4ece.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1769418000&x-signature=FEjPNt3Fm%2FNALCoRCOjb66RN9aM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#smartliving\", \"subTitle\": \"1.7B views\", \"description\": \"With the hashtag #smartliving, post short videos to share the useful electronic products you have used. High quality videos have the opportunity to reach the top of the topic and gain more traffic and heating\", \"link\": \"/tag/smartliving\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 1700000000, \"challengeId\": \"1623103798982821\", \"challengeName\": \"smartliving\"}}"
+      },
       {
         "id": "19852474",
         "title": "#whatsforyou",
@@ -359,24 +377,6 @@
         "first_seen": "2025-08-12 06:41:27.988558",
         "last_updated": "2025-12-26 05:11:29.257778",
         "raw_data": "{\"id\": \"14963587\", \"type\": 3, \"title\": \"#schoolhacks\", \"subTitle\": \"4.1B views\", \"description\": \"\", \"link\": \"/tag/schoolhacks\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 4100000000, \"challengeId\": \"14963587\", \"challengeName\": \"schoolhacks\"}}"
-      },
-      {
-        "id": "7149057085190193198",
-        "title": "#fallfreshness",
-        "author": "",
-        "description": "",
-        "timestamp": "2025-12-26T05:11:22.067154",
-        "source": "discover_us",
-        "view_count": 0,
-        "like_count": 0,
-        "share_count": 0,
-        "comment_count": 0,
-        "music_id": null,
-        "virality_stage": "New",
-        "growth_rate": 0.0,
-        "first_seen": "2025-08-18 10:16:41.821344",
-        "last_updated": "2025-12-26 05:11:29.182631",
-        "raw_data": "{\"id\": \"7149057085190193198\", \"type\": 3, \"cover\": \"https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/928522a09a93f46e70548c63606558fa.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1766746800&x-signature=BtoPMM32t4BKwJjlChc%2BljdCe8k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5\", \"title\": \"#fallfreshness\", \"subTitle\": \"4.4B views\", \"description\": \"Define your looks and drop it with #FallFreshness! \\ud83c\\udf42 From cozy knits to city-ready layers, discover autumn\\u2019s must-haves and make you every look a inspo \\u2728\\ud83d\\udc85\", \"link\": \"/tag/fallfreshness\", \"round\": false, \"playToken\": \"\", \"keyToken\": \"\", \"extraInfo\": {\"views\": 4400000000, \"challengeId\": \"7149057085190193198\", \"challengeName\": \"fallfreshness\"}}"
       }
     ],
     "early_traction": [],
@@ -426,5 +426,5 @@
     "medium_priority": [],
     "low_priority": []
   },
-  "generated_at": "2025-12-27T15:24:33.849651"
+  "generated_at": "2026-01-26T03:24:24.987413"
 }
